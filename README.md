@@ -7,10 +7,10 @@ An end-to-end data engineering, quality assurance, and compliance auditing suite
 ## Project Directory & Deliverables
 
 - **Live Tableau Dashboards:** 
-  - Phase 1: Simulated Forensic Services Unit Operational & Quality Audit
-  - Phase 2: Forensic Services Unit | Technical Casework & QA Compliance Audit, Instrument Verification, and Turnaround Analytics
-- **Executive Excel Workbook:** `phase_2_iso17020_technical_audit/excel/FSU_ISO17020_Technical_Casework_Companion.xlsx` (4-tab compliance model with dynamic spill logic)
-- **Python Analytics Pipeline:** `phase_1_operational_audit/scripts/` & `phase_2_iso17020_technical_audit/scripts/` (Automated raw data generation and workload modeling)
+  - Phase 1: [Simulated Forensic Services Unit Operational & Quality Audit](https://public.tableau.com/views/SimulatedForensicServicesUnitOperationalQualityAudit/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - Phase 2: [Forensic Services Unit | Technical Casework & QA Compliance Audit](https://public.tableau.com/views/ForensicServicesUnitTechnicalCaseworkQA/Dashboard1D?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- **Executive Excel Workbook:** [Simulated FSU Compliance Analysis Workbook](https://github.com/emmadumonseau/Forensic-Services-Unit-Dual-Phase-Operational-SLA-Quality-Assurance-Audit-Suite/blob/main/simulated_fsu_compliance_audit_workbook.xlsx) (4-tab compliance model with dynamic spill logic) 
+- **Python Analytics Pipeline:** [`fsu_performance_model_script`](https://github.com/emmadumonseau/Forensic-Services-Unit-Dual-Phase-Operational-SLA-Quality-Assurance-Audit-Suite/blob/main/fsu_performance_model_script.ipynb) & [`generate_fsu_analysis_data`](https://github.com/emmadumonseau/Forensic-Services-Unit-Dual-Phase-Operational-SLA-Quality-Assurance-Audit-Suite/blob/main/generate_fsu_analysis_data.ipynb) & [`generate_fsu_technical_casework`](https://github.com/emmadumonseau/Forensic-Services-Unit-Dual-Phase-Operational-SLA-Quality-Assurance-Audit-Suite/blob/main/generate_fsu_technical_casework.ipynb)(Automated raw data generation and workload modeling)
 
 ---
 
