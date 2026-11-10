@@ -1,0 +1,1001 @@
+Case_Number,Item_ID,Assigned_Unit,Priority_Level,Date_Received,Chain_of_Custody_Verified,QC_Calibration_Passed,Peer_Review_Status,Target_SLA_Days,Actual_Turnaround_Days
+STP-26-77841,EVD-0001,Drug Chemistry,Routine,2026-01-01 00:00:00,1,1,Pending Review,14,24.8
+STP-26-42134,EVD-0002,Drug Chemistry,Routine,2026-01-01 07:00:00,1,1,Verified & Signed,14,17.8
+STP-26-84522,EVD-0003,Latent Prints,Routine,2026-01-01 14:00:00,1,1,Verified & Signed,18,19.5
+STP-26-39624,EVD-0004,Firearms,Routine,2026-01-01 21:00:00,1,1,Verified & Signed,21,20.3
+STP-26-61277,EVD-0005,DNA,Routine,2026-01-02 04:00:00,1,1,Verified & Signed,25,20.5
+STP-26-49245,EVD-0006,Drug Chemistry,Routine,2026-01-02 11:00:00,1,1,Active Analysis,14,16.8
+STP-26-15661,EVD-0007,DNA,Routine,2026-01-02 18:00:00,1,0,Verified & Signed,25,22.3
+STP-26-24964,EVD-0008,Latent Prints,Routine,2026-01-03 01:00:00,1,1,Verified & Signed,18,21.5
+STP-26-58540,EVD-0009,Drug Chemistry,Routine,2026-01-03 08:00:00,1,1,Verified & Signed,14,19.8
+STP-26-17167,EVD-0010,Trace Evidence,Priority (Urgent),2026-01-03 15:00:00,1,1,Verified & Signed,30,41.8
+STP-26-11989,EVD-0011,DNA,Routine,2026-01-03 22:00:00,1,1,Verified & Signed,25,31.4
+STP-26-10028,EVD-0012,DNA,Priority (Urgent),2026-01-04 05:00:00,1,1,Verified & Signed,25,25.4
+STP-26-20882,EVD-0013,Latent Prints,Routine,2026-01-04 12:00:00,1,1,Verified & Signed,18,12.5
+STP-26-30918,EVD-0014,Trace Evidence,Priority (Urgent),2026-01-04 19:00:00,1,1,Verified & Signed,30,30.9
+STP-26-35627,EVD-0015,Drug Chemistry,Routine,2026-01-05 02:00:00,1,1,Verified & Signed,14,16.5
+STP-26-96777,EVD-0016,Drug Chemistry,Routine,2026-01-05 09:00:00,1,1,Verified & Signed,14,15.9
+STP-26-82455,EVD-0017,DNA,Routine,2026-01-05 16:00:00,1,1,Pending Review,25,28.5
+STP-26-47487,EVD-0018,Drug Chemistry,Routine,2026-01-05 23:00:00,1,1,QC Hold,14,13.7
+STP-26-43684,EVD-0019,Latent Prints,Routine,2026-01-06 06:00:00,1,1,Verified & Signed,18,17.9
+STP-26-14513,EVD-0020,Crime Scene,Court Subpoena / Trial,2026-01-06 13:00:00,1,1,Pending Review,7,6.6
+STP-26-74304,EVD-0021,Drug Chemistry,Routine,2026-01-06 20:00:00,1,1,Verified & Signed,14,15.5
+STP-26-31798,EVD-0022,Drug Chemistry,Routine,2026-01-07 03:00:00,1,1,Verified & Signed,14,11.1
+STP-26-88873,EVD-0023,Latent Prints,Routine,2026-01-07 10:00:00,1,1,Active Analysis,18,23.0
+STP-26-54356,EVD-0024,Crime Scene,Routine,2026-01-07 17:00:00,1,1,Verified & Signed,7,6.1
+STP-26-97664,EVD-0025,Latent Prints,Routine,2026-01-08 00:00:00,1,1,Pending Review,18,19.2
+STP-26-28236,EVD-0026,Latent Prints,Routine,2026-01-08 07:00:00,1,1,Active Analysis,18,23.7
+STP-26-48929,EVD-0027,Drug Chemistry,Priority (Urgent),2026-01-08 14:00:00,1,1,Verified & Signed,14,12.0
+STP-26-36362,EVD-0028,Drug Chemistry,Priority (Urgent),2026-01-08 21:00:00,1,1,Pending Review,14,7.9
+STP-26-59353,EVD-0029,DNA,Priority (Urgent),2026-01-09 04:00:00,1,1,Verified & Signed,25,26.1
+STP-26-29572,EVD-0030,DNA,Routine,2026-01-09 11:00:00,1,1,Verified & Signed,25,25.7
+STP-26-72100,EVD-0031,Drug Chemistry,Priority (Urgent),2026-01-09 18:00:00,1,1,Verified & Signed,14,16.9
+STP-26-12409,EVD-0032,Latent Prints,Routine,2026-01-10 01:00:00,1,1,Verified & Signed,18,19.8
+STP-26-37999,EVD-0033,Drug Chemistry,Routine,2026-01-10 08:00:00,1,1,Verified & Signed,14,14.7
+STP-26-24150,EVD-0034,DNA,Routine,2026-01-10 15:00:00,1,1,Active Analysis,25,27.3
+STP-26-68617,EVD-0035,Toxicology,Routine,2026-01-10 22:00:00,1,1,QC Hold,20,16.1
+STP-26-22584,EVD-0036,DNA,Priority (Urgent),2026-01-11 05:00:00,1,1,Verified & Signed,25,33.5
+STP-26-19461,EVD-0037,DNA,Priority (Urgent),2026-01-11 12:00:00,1,1,Verified & Signed,25,23.3
+STP-26-77520,EVD-0038,Drug Chemistry,Routine,2026-01-11 19:00:00,1,1,Verified & Signed,14,10.1
+STP-26-43743,EVD-0039,Trace Evidence,Routine,2026-01-12 02:00:00,1,1,Active Analysis,30,33.6
+STP-26-94449,EVD-0040,Crime Scene,Court Subpoena / Trial,2026-01-12 09:00:00,1,1,Verified & Signed,7,8.8
+STP-26-30105,EVD-0041,Latent Prints,Routine,2026-01-12 16:00:00,1,1,Active Analysis,18,20.3
+STP-26-80705,EVD-0042,Latent Prints,Court Subpoena / Trial,2026-01-12 23:00:00,1,1,Verified & Signed,18,19.1
+STP-26-92211,EVD-0043,Trace Evidence,Court Subpoena / Trial,2026-01-13 06:00:00,0,1,Verified & Signed,30,31.0
+STP-26-93255,EVD-0044,DNA,Routine,2026-01-13 13:00:00,1,1,Verified & Signed,25,28.7
+STP-26-52272,EVD-0045,DNA,Routine,2026-01-13 20:00:00,1,1,Active Analysis,25,31.3
+STP-26-75901,EVD-0046,Drug Chemistry,Routine,2026-01-14 03:00:00,1,1,Verified & Signed,14,19.3
+STP-26-19274,EVD-0047,Latent Prints,Routine,2026-01-14 10:00:00,1,1,Pending Review,18,18.7
+STP-26-18726,EVD-0048,Firearms,Routine,2026-01-14 17:00:00,1,1,Verified & Signed,21,14.6
+STP-26-39656,EVD-0049,Drug Chemistry,Court Subpoena / Trial,2026-01-15 00:00:00,1,1,Pending Review,14,10.8
+STP-26-93023,EVD-0050,Latent Prints,Priority (Urgent),2026-01-15 07:00:00,1,1,Verified & Signed,18,16.2
+STP-26-34715,EVD-0051,DNA,Priority (Urgent),2026-01-15 14:00:00,1,1,Verified & Signed,25,25.7
+STP-26-13980,EVD-0052,Drug Chemistry,Priority (Urgent),2026-01-15 21:00:00,1,0,Active Analysis,14,20.1
+STP-26-82443,EVD-0053,Drug Chemistry,Routine,2026-01-16 04:00:00,1,1,Active Analysis,14,17.3
+STP-26-68894,EVD-0054,Latent Prints,Routine,2026-01-16 11:00:00,1,1,Verified & Signed,18,18.2
+STP-26-87191,EVD-0055,Firearms,Routine,2026-01-16 18:00:00,1,1,Verified & Signed,21,21.1
+STP-26-81559,EVD-0056,DNA,Priority (Urgent),2026-01-17 01:00:00,1,1,Verified & Signed,25,24.7
+STP-26-21970,EVD-0057,Toxicology,Routine,2026-01-17 08:00:00,1,1,Verified & Signed,20,22.2
+STP-26-50765,EVD-0058,DNA,Court Subpoena / Trial,2026-01-17 15:00:00,1,1,Verified & Signed,25,22.5
+STP-26-58804,EVD-0059,Crime Scene,Routine,2026-01-17 22:00:00,1,1,Verified & Signed,7,8.8
+STP-26-76260,EVD-0060,DNA,Priority (Urgent),2026-01-18 05:00:00,1,1,Verified & Signed,25,23.7
+STP-26-98130,EVD-0061,DNA,Routine,2026-01-18 12:00:00,0,1,Verified & Signed,25,31.3
+STP-26-19679,EVD-0062,Drug Chemistry,Court Subpoena / Trial,2026-01-18 19:00:00,1,1,Active Analysis,14,18.6
+STP-26-41552,EVD-0063,Drug Chemistry,Routine,2026-01-19 02:00:00,1,1,Verified & Signed,14,22.8
+STP-26-84638,EVD-0064,DNA,Routine,2026-01-19 09:00:00,1,1,Active Analysis,25,26.3
+STP-26-86028,EVD-0065,DNA,Routine,2026-01-19 16:00:00,1,1,Verified & Signed,25,19.9
+STP-26-40707,EVD-0066,Trace Evidence,Court Subpoena / Trial,2026-01-19 23:00:00,1,1,Verified & Signed,30,35.7
+STP-26-78915,EVD-0067,Crime Scene,Routine,2026-01-20 06:00:00,1,1,Verified & Signed,7,8.3
+STP-26-47052,EVD-0068,Drug Chemistry,Routine,2026-01-20 13:00:00,1,1,Verified & Signed,14,17.6
+STP-26-82180,EVD-0069,Toxicology,Court Subpoena / Trial,2026-01-20 20:00:00,1,1,Verified & Signed,20,15.7
+STP-26-57683,EVD-0070,Crime Scene,Priority (Urgent),2026-01-21 03:00:00,1,1,Verified & Signed,7,12.0
+STP-26-56681,EVD-0071,Crime Scene,Routine,2026-01-21 10:00:00,1,1,Verified & Signed,7,12.2
+STP-26-54101,EVD-0072,DNA,Routine,2026-01-21 17:00:00,1,1,Active Analysis,25,29.1
+STP-26-42103,EVD-0073,Drug Chemistry,Priority (Urgent),2026-01-22 00:00:00,1,1,Verified & Signed,14,19.4
+STP-26-84092,EVD-0074,Toxicology,Priority (Urgent),2026-01-22 07:00:00,1,1,Pending Review,20,16.5
+STP-26-67593,EVD-0075,Drug Chemistry,Priority (Urgent),2026-01-22 14:00:00,1,1,Pending Review,14,21.3
+STP-26-39911,EVD-0076,Latent Prints,Priority (Urgent),2026-01-22 21:00:00,1,1,Verified & Signed,18,21.6
+STP-26-48320,EVD-0077,DNA,Routine,2026-01-23 04:00:00,1,1,Verified & Signed,25,28.3
+STP-26-41427,EVD-0078,DNA,Priority (Urgent),2026-01-23 11:00:00,1,1,Verified & Signed,25,27.5
+STP-26-66353,EVD-0079,Firearms,Routine,2026-01-23 18:00:00,1,1,Verified & Signed,21,19.6
+STP-26-37643,EVD-0080,Crime Scene,Routine,2026-01-24 01:00:00,1,1,Active Analysis,7,6.3
+STP-26-96749,EVD-0081,Drug Chemistry,Priority (Urgent),2026-01-24 08:00:00,1,1,Verified & Signed,14,10.0
+STP-26-69793,EVD-0082,Trace Evidence,Court Subpoena / Trial,2026-01-24 15:00:00,1,1,Verified & Signed,30,33.2
+STP-26-53426,EVD-0083,Drug Chemistry,Routine,2026-01-24 22:00:00,1,1,Verified & Signed,14,16.1
+STP-26-32230,EVD-0084,Firearms,Priority (Urgent),2026-01-25 05:00:00,1,1,Verified & Signed,21,21.3
+STP-26-96101,EVD-0085,Crime Scene,Priority (Urgent),2026-01-25 12:00:00,1,1,Verified & Signed,7,2.8
+STP-26-52248,EVD-0086,Latent Prints,Routine,2026-01-25 19:00:00,1,1,QC Hold,18,16.8
+STP-26-36977,EVD-0087,Firearms,Routine,2026-01-26 02:00:00,1,1,Verified & Signed,21,24.2
+STP-26-42388,EVD-0088,DNA,Routine,2026-01-26 09:00:00,1,1,QC Hold,25,28.6
+STP-26-64876,EVD-0089,Latent Prints,Priority (Urgent),2026-01-26 16:00:00,1,1,Verified & Signed,18,11.4
+STP-26-63270,EVD-0090,Drug Chemistry,Routine,2026-01-26 23:00:00,1,1,Verified & Signed,14,14.6
+STP-26-80140,EVD-0091,DNA,Priority (Urgent),2026-01-27 06:00:00,1,1,Verified & Signed,25,28.9
+STP-26-93042,EVD-0092,Trace Evidence,Routine,2026-01-27 13:00:00,1,1,Verified & Signed,30,30.1
+STP-26-35344,EVD-0093,Firearms,Priority (Urgent),2026-01-27 20:00:00,0,1,Verified & Signed,21,20.1
+STP-26-67526,EVD-0094,Drug Chemistry,Priority (Urgent),2026-01-28 03:00:00,1,1,Verified & Signed,14,19.8
+STP-26-52486,EVD-0095,Drug Chemistry,Routine,2026-01-28 10:00:00,1,1,QC Hold,14,11.7
+STP-26-21900,EVD-0096,DNA,Priority (Urgent),2026-01-28 17:00:00,1,1,Active Analysis,25,31.9
+STP-26-45436,EVD-0097,Drug Chemistry,Priority (Urgent),2026-01-29 00:00:00,1,1,Pending Review,14,25.7
+STP-26-45088,EVD-0098,Toxicology,Court Subpoena / Trial,2026-01-29 07:00:00,1,1,Verified & Signed,20,17.6
+STP-26-44265,EVD-0099,Toxicology,Routine,2026-01-29 14:00:00,1,1,Verified & Signed,20,19.4
+STP-26-13542,EVD-0100,Latent Prints,Court Subpoena / Trial,2026-01-29 21:00:00,1,1,Verified & Signed,18,21.1
+STP-26-50107,EVD-0101,DNA,Routine,2026-01-30 04:00:00,1,1,Verified & Signed,25,28.9
+STP-26-95828,EVD-0102,Drug Chemistry,Routine,2026-01-30 11:00:00,1,1,Verified & Signed,14,17.4
+STP-26-76111,EVD-0103,Drug Chemistry,Routine,2026-01-30 18:00:00,1,1,Pending Review,14,18.7
+STP-26-38881,EVD-0104,Latent Prints,Routine,2026-01-31 01:00:00,1,1,Verified & Signed,18,21.0
+STP-26-78053,EVD-0105,Crime Scene,Routine,2026-01-31 08:00:00,1,1,Verified & Signed,7,2.0999999999999996
+STP-26-24356,EVD-0106,Latent Prints,Routine,2026-01-31 15:00:00,1,1,Verified & Signed,18,15.4
+STP-26-92298,EVD-0107,Crime Scene,Routine,2026-01-31 22:00:00,1,1,QC Hold,7,7.5
+STP-26-45135,EVD-0108,Latent Prints,Routine,2026-02-01 05:00:00,1,1,QC Hold,18,19.9
+STP-26-10316,EVD-0109,Latent Prints,Court Subpoena / Trial,2026-02-01 12:00:00,1,1,Verified & Signed,18,15.6
+STP-26-38094,EVD-0110,Trace Evidence,Routine,2026-02-01 19:00:00,1,1,QC Hold,30,38.4
+STP-26-41451,EVD-0111,Crime Scene,Court Subpoena / Trial,2026-02-02 02:00:00,1,1,QC Hold,7,7.5
+STP-26-83930,EVD-0112,Drug Chemistry,Routine,2026-02-02 09:00:00,1,1,Pending Review,14,14.8
+STP-26-67760,EVD-0113,DNA,Priority (Urgent),2026-02-02 16:00:00,1,1,Verified & Signed,25,24.7
+STP-26-84471,EVD-0114,Drug Chemistry,Routine,2026-02-02 23:00:00,1,1,Active Analysis,14,22.8
+STP-26-78656,EVD-0115,Latent Prints,Priority (Urgent),2026-02-03 06:00:00,1,1,Verified & Signed,18,14.9
+STP-26-30442,EVD-0116,Drug Chemistry,Priority (Urgent),2026-02-03 13:00:00,1,1,Active Analysis,14,16.1
+STP-26-82359,EVD-0117,DNA,Routine,2026-02-03 20:00:00,1,1,Pending Review,25,29.2
+STP-26-59008,EVD-0118,DNA,Routine,2026-02-04 03:00:00,1,1,Verified & Signed,25,28.6
+STP-26-55510,EVD-0119,Toxicology,Court Subpoena / Trial,2026-02-04 10:00:00,1,1,Pending Review,20,20.3
+STP-26-62923,EVD-0120,Latent Prints,Court Subpoena / Trial,2026-02-04 17:00:00,1,1,Verified & Signed,18,18.8
+STP-26-71704,EVD-0121,Crime Scene,Priority (Urgent),2026-02-05 00:00:00,1,1,Verified & Signed,7,12.0
+STP-26-13548,EVD-0122,Crime Scene,Court Subpoena / Trial,2026-02-05 07:00:00,1,1,Pending Review,7,7.0
+STP-26-44528,EVD-0123,DNA,Priority (Urgent),2026-02-05 14:00:00,1,1,Verified & Signed,25,25.0
+STP-26-82384,EVD-0124,Firearms,Routine,2026-02-05 21:00:00,1,1,Verified & Signed,21,27.5
+STP-26-63158,EVD-0125,Drug Chemistry,Routine,2026-02-06 04:00:00,1,1,Verified & Signed,14,11.9
+STP-26-26431,EVD-0126,Firearms,Priority (Urgent),2026-02-06 11:00:00,1,1,Active Analysis,21,29.4
+STP-26-21505,EVD-0127,Latent Prints,Priority (Urgent),2026-02-06 18:00:00,1,1,Pending Review,18,14.2
+STP-26-51257,EVD-0128,Drug Chemistry,Priority (Urgent),2026-02-07 01:00:00,1,1,Verified & Signed,14,15.7
+STP-26-94525,EVD-0129,Toxicology,Routine,2026-02-07 08:00:00,1,1,Pending Review,20,21.0
+STP-26-68830,EVD-0130,Drug Chemistry,Routine,2026-02-07 15:00:00,1,1,Verified & Signed,14,15.9
+STP-26-34692,EVD-0131,Crime Scene,Routine,2026-02-07 22:00:00,1,1,Verified & Signed,7,2.5999999999999996
+STP-26-47852,EVD-0132,Latent Prints,Routine,2026-02-08 05:00:00,1,1,Active Analysis,18,22.4
+STP-26-16211,EVD-0133,Toxicology,Routine,2026-02-08 12:00:00,1,1,QC Hold,20,27.5
+STP-26-11421,EVD-0134,Toxicology,Priority (Urgent),2026-02-08 19:00:00,1,1,Pending Review,20,19.6
+STP-26-34276,EVD-0135,DNA,Routine,2026-02-09 02:00:00,1,1,Verified & Signed,25,29.3
+STP-26-55747,EVD-0136,DNA,Routine,2026-02-09 09:00:00,1,1,Verified & Signed,25,24.9
+STP-26-69364,EVD-0137,Crime Scene,Routine,2026-02-09 16:00:00,1,1,Pending Review,7,5.6
+STP-26-19810,EVD-0138,Crime Scene,Court Subpoena / Trial,2026-02-09 23:00:00,1,1,Verified & Signed,7,7.8
+STP-26-42569,EVD-0139,Drug Chemistry,Court Subpoena / Trial,2026-02-10 06:00:00,1,1,Verified & Signed,14,17.5
+STP-26-97169,EVD-0140,Latent Prints,Routine,2026-02-10 13:00:00,1,1,Verified & Signed,18,17.1
+STP-26-87430,EVD-0141,Drug Chemistry,Court Subpoena / Trial,2026-02-10 20:00:00,1,1,Pending Review,14,11.1
+STP-26-74281,EVD-0142,Crime Scene,Routine,2026-02-11 03:00:00,1,1,Verified & Signed,7,4.4
+STP-26-74956,EVD-0143,Crime Scene,Routine,2026-02-11 10:00:00,1,1,Verified & Signed,7,6.9
+STP-26-12893,EVD-0144,DNA,Routine,2026-02-11 17:00:00,1,1,Active Analysis,25,30.1
+STP-26-91248,EVD-0145,Drug Chemistry,Routine,2026-02-12 00:00:00,1,1,QC Hold,14,16.8
+STP-26-47131,EVD-0146,Drug Chemistry,Routine,2026-02-12 07:00:00,1,1,Verified & Signed,14,13.2
+STP-26-43512,EVD-0147,Firearms,Routine,2026-02-12 14:00:00,1,1,Verified & Signed,21,25.4
+STP-26-67572,EVD-0148,DNA,Routine,2026-02-12 21:00:00,1,1,Verified & Signed,25,24.3
+STP-26-91651,EVD-0149,Drug Chemistry,Priority (Urgent),2026-02-13 04:00:00,1,1,Verified & Signed,14,15.2
+STP-26-67249,EVD-0150,Latent Prints,Routine,2026-02-13 11:00:00,1,1,Pending Review,18,30.1
+STP-26-17391,EVD-0151,Drug Chemistry,Routine,2026-02-13 18:00:00,1,0,Verified & Signed,14,19.1
+STP-26-50177,EVD-0152,Latent Prints,Routine,2026-02-14 01:00:00,1,1,Active Analysis,18,20.9
+STP-26-63880,EVD-0153,DNA,Routine,2026-02-14 08:00:00,1,1,Verified & Signed,25,25.9
+STP-26-26397,EVD-0154,Latent Prints,Routine,2026-02-14 15:00:00,1,0,Pending Review,18,16.4
+STP-26-40790,EVD-0155,Drug Chemistry,Routine,2026-02-14 22:00:00,1,1,Verified & Signed,14,19.6
+STP-26-23278,EVD-0156,DNA,Priority (Urgent),2026-02-15 05:00:00,1,1,Verified & Signed,25,21.5
+STP-26-77750,EVD-0157,DNA,Routine,2026-02-15 12:00:00,1,1,Verified & Signed,25,25.3
+STP-26-32124,EVD-0158,Trace Evidence,Routine,2026-02-15 19:00:00,1,1,Verified & Signed,30,26.1
+STP-26-16665,EVD-0159,Firearms,Court Subpoena / Trial,2026-02-16 02:00:00,1,1,Active Analysis,21,21.7
+STP-26-52906,EVD-0160,DNA,Court Subpoena / Trial,2026-02-16 09:00:00,1,1,Verified & Signed,25,30.7
+STP-26-88221,EVD-0161,Drug Chemistry,Priority (Urgent),2026-02-16 16:00:00,1,1,Verified & Signed,14,15.9
+STP-26-62566,EVD-0162,Drug Chemistry,Priority (Urgent),2026-02-16 23:00:00,1,1,Verified & Signed,14,11.6
+STP-26-69460,EVD-0163,Drug Chemistry,Priority (Urgent),2026-02-17 06:00:00,1,1,Active Analysis,14,21.9
+STP-26-95965,EVD-0164,Toxicology,Priority (Urgent),2026-02-17 13:00:00,1,1,Pending Review,20,16.8
+STP-26-32999,EVD-0165,DNA,Routine,2026-02-17 20:00:00,1,1,Verified & Signed,25,20.5
+STP-26-70307,EVD-0166,Latent Prints,Priority (Urgent),2026-02-18 03:00:00,1,1,Verified & Signed,18,18.6
+STP-26-73947,EVD-0167,Drug Chemistry,Priority (Urgent),2026-02-18 10:00:00,0,0,Verified & Signed,14,21.9
+STP-26-72189,EVD-0168,Trace Evidence,Routine,2026-02-18 17:00:00,1,1,Verified & Signed,30,36.1
+STP-26-92105,EVD-0169,Drug Chemistry,Routine,2026-02-19 00:00:00,1,1,Verified & Signed,14,18.2
+STP-26-94569,EVD-0170,Crime Scene,Routine,2026-02-19 07:00:00,1,1,Verified & Signed,7,12.2
+STP-26-85551,EVD-0171,Drug Chemistry,Routine,2026-02-19 14:00:00,1,1,Verified & Signed,14,15.7
+STP-26-26834,EVD-0172,Toxicology,Routine,2026-02-19 21:00:00,1,1,Active Analysis,20,27.4
+STP-26-73188,EVD-0173,Firearms,Routine,2026-02-20 04:00:00,1,1,Verified & Signed,21,24.5
+STP-26-34409,EVD-0174,DNA,Priority (Urgent),2026-02-20 11:00:00,1,1,Verified & Signed,25,27.1
+STP-26-29099,EVD-0175,Latent Prints,Routine,2026-02-20 18:00:00,1,1,Verified & Signed,18,22.9
+STP-26-97542,EVD-0176,Latent Prints,Priority (Urgent),2026-02-21 01:00:00,1,1,QC Hold,18,19.5
+STP-26-45568,EVD-0177,Toxicology,Routine,2026-02-21 08:00:00,1,1,Verified & Signed,20,17.4
+STP-26-65245,EVD-0178,Drug Chemistry,Routine,2026-02-21 15:00:00,1,1,Verified & Signed,14,11.6
+STP-26-26273,EVD-0179,DNA,Priority (Urgent),2026-02-21 22:00:00,1,1,Verified & Signed,25,25.6
+STP-26-34807,EVD-0180,Crime Scene,Routine,2026-02-22 05:00:00,1,1,Verified & Signed,7,2.3
+STP-26-70592,EVD-0181,Crime Scene,Routine,2026-02-22 12:00:00,1,1,Active Analysis,7,10.5
+STP-26-37955,EVD-0182,Drug Chemistry,Routine,2026-02-22 19:00:00,1,1,Verified & Signed,14,15.6
+STP-26-92606,EVD-0183,Trace Evidence,Routine,2026-02-23 02:00:00,1,1,QC Hold,30,29.1
+STP-26-83613,EVD-0184,Trace Evidence,Priority (Urgent),2026-02-23 09:00:00,1,1,Verified & Signed,30,29.2
+STP-26-37439,EVD-0185,Toxicology,Routine,2026-02-23 16:00:00,1,1,Verified & Signed,20,27.6
+STP-26-85668,EVD-0186,Firearms,Routine,2026-02-23 23:00:00,1,1,Verified & Signed,21,25.0
+STP-26-83039,EVD-0187,Firearms,Routine,2026-02-24 06:00:00,1,1,Verified & Signed,21,19.8
+STP-26-57616,EVD-0188,Drug Chemistry,Routine,2026-02-24 13:00:00,1,1,Verified & Signed,14,13.0
+STP-26-15348,EVD-0189,Drug Chemistry,Routine,2026-02-24 20:00:00,1,1,Verified & Signed,14,17.3
+STP-26-27255,EVD-0190,DNA,Routine,2026-02-25 03:00:00,1,1,Verified & Signed,25,27.4
+STP-26-81439,EVD-0191,Latent Prints,Routine,2026-02-25 10:00:00,1,1,Verified & Signed,18,17.4
+STP-26-25736,EVD-0192,Drug Chemistry,Routine,2026-02-25 17:00:00,1,1,Verified & Signed,14,11.1
+STP-26-93239,EVD-0193,Drug Chemistry,Routine,2026-02-26 00:00:00,1,1,Verified & Signed,14,18.5
+STP-26-99230,EVD-0194,Firearms,Routine,2026-02-26 07:00:00,1,1,Verified & Signed,21,16.5
+STP-26-26142,EVD-0195,Trace Evidence,Priority (Urgent),2026-02-26 14:00:00,1,0,Verified & Signed,30,30.2
+STP-26-75621,EVD-0196,Latent Prints,Routine,2026-02-26 21:00:00,1,1,Verified & Signed,18,18.0
+STP-26-79347,EVD-0197,Firearms,Routine,2026-02-27 04:00:00,1,1,Verified & Signed,21,29.0
+STP-26-15230,EVD-0198,Toxicology,Priority (Urgent),2026-02-27 11:00:00,1,1,Active Analysis,20,18.7
+STP-26-28978,EVD-0199,Trace Evidence,Routine,2026-02-27 18:00:00,1,1,Verified & Signed,30,33.1
+STP-26-52806,EVD-0200,DNA,Routine,2026-02-28 01:00:00,1,1,Active Analysis,25,29.3
+STP-26-78633,EVD-0201,Crime Scene,Routine,2026-02-28 08:00:00,1,1,Verified & Signed,7,6.6
+STP-26-93037,EVD-0202,DNA,Routine,2026-02-28 15:00:00,1,1,Verified & Signed,25,28.4
+STP-26-26648,EVD-0203,Drug Chemistry,Routine,2026-02-28 22:00:00,1,1,Pending Review,14,18.9
+STP-26-12935,EVD-0204,DNA,Priority (Urgent),2026-03-01 05:00:00,1,1,Verified & Signed,25,26.3
+STP-26-95583,EVD-0205,Drug Chemistry,Routine,2026-03-01 12:00:00,1,1,Verified & Signed,14,3.6999999999999993
+STP-26-87017,EVD-0206,Latent Prints,Routine,2026-03-01 19:00:00,1,1,Verified & Signed,18,21.9
+STP-26-38179,EVD-0207,Firearms,Routine,2026-03-02 02:00:00,1,1,Verified & Signed,21,20.1
+STP-26-65588,EVD-0208,Drug Chemistry,Routine,2026-03-02 09:00:00,1,1,QC Hold,14,23.3
+STP-26-90795,EVD-0209,Drug Chemistry,Priority (Urgent),2026-03-02 16:00:00,1,1,Verified & Signed,14,9.2
+STP-26-93757,EVD-0210,Latent Prints,Routine,2026-03-02 23:00:00,1,1,Verified & Signed,18,13.7
+STP-26-24701,EVD-0211,DNA,Routine,2026-03-03 06:00:00,1,1,Active Analysis,25,31.8
+STP-26-78786,EVD-0212,DNA,Routine,2026-03-03 13:00:00,1,1,Verified & Signed,25,21.9
+STP-26-34090,EVD-0213,Drug Chemistry,Routine,2026-03-03 20:00:00,1,1,Verified & Signed,14,14.3
+STP-26-64579,EVD-0214,Drug Chemistry,Priority (Urgent),2026-03-04 03:00:00,1,0,Pending Review,14,16.4
+STP-26-37657,EVD-0215,Crime Scene,Routine,2026-03-04 10:00:00,1,1,Verified & Signed,7,8.5
+STP-26-97410,EVD-0216,Firearms,Court Subpoena / Trial,2026-03-04 17:00:00,1,1,Active Analysis,21,30.1
+STP-26-21030,EVD-0217,DNA,Routine,2026-03-05 00:00:00,1,1,Verified & Signed,25,23.9
+STP-26-49647,EVD-0218,DNA,Court Subpoena / Trial,2026-03-05 07:00:00,1,0,Active Analysis,25,24.5
+STP-26-50795,EVD-0219,Drug Chemistry,Priority (Urgent),2026-03-05 14:00:00,1,1,Verified & Signed,14,24.9
+STP-26-64793,EVD-0220,Firearms,Routine,2026-03-05 21:00:00,1,1,Verified & Signed,21,24.1
+STP-26-15249,EVD-0221,Crime Scene,Routine,2026-03-06 04:00:00,1,1,Verified & Signed,7,15.0
+STP-26-48977,EVD-0222,DNA,Routine,2026-03-06 11:00:00,1,1,Verified & Signed,25,25.3
+STP-26-92374,EVD-0223,Latent Prints,Priority (Urgent),2026-03-06 18:00:00,1,1,Verified & Signed,18,21.8
+STP-26-56281,EVD-0224,Crime Scene,Routine,2026-03-07 01:00:00,1,1,Active Analysis,7,12.1
+STP-26-37140,EVD-0225,Latent Prints,Routine,2026-03-07 08:00:00,1,1,Verified & Signed,18,22.6
+STP-26-93124,EVD-0226,Crime Scene,Priority (Urgent),2026-03-07 15:00:00,1,1,Active Analysis,7,1.7000000000000002
+STP-26-15461,EVD-0227,Crime Scene,Routine,2026-03-07 22:00:00,1,1,Verified & Signed,7,5.8
+STP-26-34204,EVD-0228,Latent Prints,Routine,2026-03-08 05:00:00,1,1,Pending Review,18,21.7
+STP-26-45749,EVD-0229,DNA,Routine,2026-03-08 12:00:00,1,1,Verified & Signed,25,30.7
+STP-26-86231,EVD-0230,DNA,Routine,2026-03-08 19:00:00,1,1,Verified & Signed,25,20.8
+STP-26-49793,EVD-0231,Crime Scene,Court Subpoena / Trial,2026-03-09 02:00:00,1,1,Verified & Signed,7,6.0
+STP-26-48352,EVD-0232,Drug Chemistry,Routine,2026-03-09 09:00:00,1,1,Pending Review,14,21.0
+STP-26-83098,EVD-0233,Drug Chemistry,Routine,2026-03-09 16:00:00,1,1,Verified & Signed,14,18.6
+STP-26-21819,EVD-0234,DNA,Court Subpoena / Trial,2026-03-09 23:00:00,1,1,Verified & Signed,25,28.4
+STP-26-64138,EVD-0235,Crime Scene,Priority (Urgent),2026-03-10 06:00:00,1,1,Verified & Signed,7,7.8
+STP-26-62270,EVD-0236,Drug Chemistry,Routine,2026-03-10 13:00:00,1,1,Verified & Signed,14,20.1
+STP-26-41725,EVD-0237,DNA,Priority (Urgent),2026-03-10 20:00:00,1,1,Verified & Signed,25,33.9
+STP-26-14165,EVD-0238,Trace Evidence,Routine,2026-03-11 03:00:00,1,1,QC Hold,30,37.6
+STP-26-49049,EVD-0239,Crime Scene,Routine,2026-03-11 10:00:00,1,1,Active Analysis,7,7.3
+STP-26-16908,EVD-0240,Latent Prints,Routine,2026-03-11 17:00:00,1,1,Verified & Signed,18,23.6
+STP-26-57323,EVD-0241,Drug Chemistry,Routine,2026-03-12 00:00:00,1,1,Verified & Signed,14,13.6
+STP-26-17027,EVD-0242,DNA,Routine,2026-03-12 07:00:00,1,1,Pending Review,25,28.5
+STP-26-64208,EVD-0243,Toxicology,Court Subpoena / Trial,2026-03-12 14:00:00,1,1,Verified & Signed,20,18.2
+STP-26-96968,EVD-0244,Toxicology,Routine,2026-03-12 21:00:00,1,1,Verified & Signed,20,17.2
+STP-26-81486,EVD-0245,Drug Chemistry,Routine,2026-03-13 04:00:00,1,1,Verified & Signed,14,20.3
+STP-26-46371,EVD-0246,Crime Scene,Routine,2026-03-13 11:00:00,1,1,Verified & Signed,7,7.8
+STP-26-67832,EVD-0247,DNA,Routine,2026-03-13 18:00:00,0,1,Verified & Signed,25,27.2
+STP-26-96580,EVD-0248,DNA,Priority (Urgent),2026-03-14 01:00:00,1,1,Active Analysis,25,35.6
+STP-26-49512,EVD-0249,DNA,Priority (Urgent),2026-03-14 08:00:00,1,1,Verified & Signed,25,29.9
+STP-26-85426,EVD-0250,Latent Prints,Routine,2026-03-14 15:00:00,1,1,Verified & Signed,18,31.8
+STP-26-89802,EVD-0251,Firearms,Priority (Urgent),2026-03-14 22:00:00,1,1,Verified & Signed,21,19.5
+STP-26-12971,EVD-0252,Drug Chemistry,Priority (Urgent),2026-03-15 05:00:00,1,1,QC Hold,14,8.7
+STP-26-32264,EVD-0253,Latent Prints,Priority (Urgent),2026-03-15 12:00:00,1,1,Verified & Signed,18,14.5
+STP-26-74269,EVD-0254,Crime Scene,Routine,2026-03-15 19:00:00,1,1,Verified & Signed,7,4.0
+STP-26-65789,EVD-0255,Latent Prints,Routine,2026-03-16 02:00:00,1,0,Verified & Signed,18,18.6
+STP-26-15678,EVD-0256,Firearms,Routine,2026-03-16 09:00:00,1,1,Pending Review,21,16.8
+STP-26-35464,EVD-0257,DNA,Routine,2026-03-16 16:00:00,1,1,Verified & Signed,25,21.0
+STP-26-23201,EVD-0258,DNA,Routine,2026-03-16 23:00:00,1,1,Verified & Signed,25,27.0
+STP-26-10962,EVD-0259,Firearms,Routine,2026-03-17 06:00:00,1,1,Verified & Signed,21,24.2
+STP-26-28205,EVD-0260,Drug Chemistry,Routine,2026-03-17 13:00:00,1,1,Pending Review,14,20.2
+STP-26-32322,EVD-0261,Drug Chemistry,Routine,2026-03-17 20:00:00,1,1,Verified & Signed,14,22.0
+STP-26-34138,EVD-0262,Drug Chemistry,Court Subpoena / Trial,2026-03-18 03:00:00,1,1,Verified & Signed,14,16.2
+STP-26-85169,EVD-0263,Trace Evidence,Routine,2026-03-18 10:00:00,1,1,Pending Review,30,24.8
+STP-26-95842,EVD-0264,Trace Evidence,Priority (Urgent),2026-03-18 17:00:00,1,1,Pending Review,30,28.5
+STP-26-39628,EVD-0265,DNA,Routine,2026-03-19 00:00:00,1,1,Verified & Signed,25,25.9
+STP-26-16694,EVD-0266,Drug Chemistry,Routine,2026-03-19 07:00:00,1,1,Verified & Signed,14,13.2
+STP-26-39248,EVD-0267,Drug Chemistry,Priority (Urgent),2026-03-19 14:00:00,1,1,Verified & Signed,14,13.4
+STP-26-92843,EVD-0268,Latent Prints,Routine,2026-03-19 21:00:00,1,1,Verified & Signed,18,23.9
+STP-26-48165,EVD-0269,Firearms,Routine,2026-03-20 04:00:00,1,1,Verified & Signed,21,17.2
+STP-26-24506,EVD-0270,DNA,Routine,2026-03-20 11:00:00,1,1,Verified & Signed,25,19.1
+STP-26-65868,EVD-0271,Firearms,Court Subpoena / Trial,2026-03-20 18:00:00,1,1,Pending Review,21,20.3
+STP-26-46218,EVD-0272,Toxicology,Routine,2026-03-21 01:00:00,1,1,Pending Review,20,23.7
+STP-26-28286,EVD-0273,Crime Scene,Priority (Urgent),2026-03-21 08:00:00,1,1,Verified & Signed,7,10.5
+STP-26-18430,EVD-0274,Drug Chemistry,Routine,2026-03-21 15:00:00,1,1,Verified & Signed,14,18.0
+STP-26-20643,EVD-0275,Toxicology,Priority (Urgent),2026-03-21 22:00:00,1,1,Verified & Signed,20,14.6
+STP-26-64058,EVD-0276,Crime Scene,Routine,2026-03-22 05:00:00,1,1,Verified & Signed,7,10.7
+STP-26-48725,EVD-0277,Toxicology,Routine,2026-03-22 12:00:00,1,1,Verified & Signed,20,23.8
+STP-26-35178,EVD-0278,Drug Chemistry,Routine,2026-03-22 19:00:00,1,1,Verified & Signed,14,22.9
+STP-26-68049,EVD-0279,Drug Chemistry,Routine,2026-03-23 02:00:00,1,1,Verified & Signed,14,18.6
+STP-26-71405,EVD-0280,DNA,Priority (Urgent),2026-03-23 09:00:00,1,1,Pending Review,25,26.8
+STP-26-49617,EVD-0281,Drug Chemistry,Priority (Urgent),2026-03-23 16:00:00,1,1,Active Analysis,14,11.7
+STP-26-25995,EVD-0282,Drug Chemistry,Routine,2026-03-23 23:00:00,1,1,Verified & Signed,14,12.1
+STP-26-33049,EVD-0283,Latent Prints,Priority (Urgent),2026-03-24 06:00:00,1,1,Active Analysis,18,21.2
+STP-26-58948,EVD-0284,DNA,Routine,2026-03-24 13:00:00,1,1,Active Analysis,25,31.6
+STP-26-51435,EVD-0285,Latent Prints,Routine,2026-03-24 20:00:00,1,1,Verified & Signed,18,25.0
+STP-26-59109,EVD-0286,Drug Chemistry,Routine,2026-03-25 03:00:00,1,1,Active Analysis,14,15.9
+STP-26-31120,EVD-0287,DNA,Court Subpoena / Trial,2026-03-25 10:00:00,1,1,Verified & Signed,25,32.4
+STP-26-14023,EVD-0288,DNA,Priority (Urgent),2026-03-25 17:00:00,1,1,Verified & Signed,25,26.4
+STP-26-56533,EVD-0289,Crime Scene,Priority (Urgent),2026-03-26 00:00:00,1,1,Verified & Signed,7,11.2
+STP-26-72810,EVD-0290,Crime Scene,Routine,2026-03-26 07:00:00,1,1,QC Hold,7,12.4
+STP-26-40041,EVD-0291,DNA,Routine,2026-03-26 14:00:00,1,1,Verified & Signed,25,21.1
+STP-26-75784,EVD-0292,Trace Evidence,Routine,2026-03-26 21:00:00,1,1,Active Analysis,30,30.9
+STP-26-44570,EVD-0293,Drug Chemistry,Routine,2026-03-27 04:00:00,1,1,Verified & Signed,14,22.7
+STP-26-10229,EVD-0294,DNA,Priority (Urgent),2026-03-27 11:00:00,1,1,Verified & Signed,25,24.3
+STP-26-73969,EVD-0295,Firearms,Court Subpoena / Trial,2026-03-27 18:00:00,1,1,Verified & Signed,21,23.1
+STP-26-13386,EVD-0296,Firearms,Routine,2026-03-28 01:00:00,1,1,Active Analysis,21,19.1
+STP-26-36531,EVD-0297,Drug Chemistry,Priority (Urgent),2026-03-28 08:00:00,1,1,Verified & Signed,14,19.8
+STP-26-80487,EVD-0298,DNA,Routine,2026-03-28 15:00:00,1,1,Verified & Signed,25,19.8
+STP-26-88464,EVD-0299,Latent Prints,Priority (Urgent),2026-03-28 22:00:00,1,1,Verified & Signed,18,21.4
+STP-26-81440,EVD-0300,Drug Chemistry,Routine,2026-03-29 05:00:00,1,1,Pending Review,14,17.1
+STP-26-34683,EVD-0301,Drug Chemistry,Priority (Urgent),2026-03-29 12:00:00,1,1,Active Analysis,14,18.7
+STP-26-62915,EVD-0302,DNA,Routine,2026-03-29 19:00:00,1,1,Verified & Signed,25,22.9
+STP-26-37104,EVD-0303,Latent Prints,Routine,2026-03-30 02:00:00,1,1,Pending Review,18,17.0
+STP-26-80316,EVD-0304,Crime Scene,Routine,2026-03-30 09:00:00,1,1,Verified & Signed,7,6.8
+STP-26-54130,EVD-0305,DNA,Routine,2026-03-30 16:00:00,1,1,Verified & Signed,25,29.6
+STP-26-96292,EVD-0306,Drug Chemistry,Routine,2026-03-30 23:00:00,1,1,Verified & Signed,14,17.1
+STP-26-76321,EVD-0307,Firearms,Court Subpoena / Trial,2026-03-31 06:00:00,1,1,Verified & Signed,21,22.1
+STP-26-73498,EVD-0308,Crime Scene,Priority (Urgent),2026-03-31 13:00:00,1,1,Verified & Signed,7,14.2
+STP-26-40480,EVD-0309,Drug Chemistry,Routine,2026-03-31 20:00:00,1,1,Verified & Signed,14,19.4
+STP-26-56917,EVD-0310,DNA,Priority (Urgent),2026-04-01 03:00:00,1,1,Verified & Signed,25,33.7
+STP-26-55376,EVD-0311,Crime Scene,Routine,2026-04-01 10:00:00,1,1,Verified & Signed,7,4.3
+STP-26-48891,EVD-0312,Toxicology,Priority (Urgent),2026-04-01 17:00:00,1,1,Verified & Signed,20,24.1
+STP-26-67119,EVD-0313,Toxicology,Priority (Urgent),2026-04-02 00:00:00,1,1,Pending Review,20,24.3
+STP-26-56728,EVD-0314,Trace Evidence,Court Subpoena / Trial,2026-04-02 07:00:00,1,1,Verified & Signed,30,31.4
+STP-26-21395,EVD-0315,Drug Chemistry,Routine,2026-04-02 14:00:00,1,1,Verified & Signed,14,14.6
+STP-26-65452,EVD-0316,Crime Scene,Priority (Urgent),2026-04-02 21:00:00,1,1,Verified & Signed,7,10.6
+STP-26-44630,EVD-0317,DNA,Court Subpoena / Trial,2026-04-03 04:00:00,1,1,Verified & Signed,25,28.9
+STP-26-94708,EVD-0318,Trace Evidence,Routine,2026-04-03 11:00:00,1,1,Verified & Signed,30,29.9
+STP-26-58948,EVD-0319,Toxicology,Priority (Urgent),2026-04-03 18:00:00,1,1,Pending Review,20,15.6
+STP-26-33935,EVD-0320,Crime Scene,Routine,2026-04-04 01:00:00,1,1,Verified & Signed,7,5.2
+STP-26-80120,EVD-0321,Firearms,Priority (Urgent),2026-04-04 08:00:00,1,1,Verified & Signed,21,17.2
+STP-26-42675,EVD-0322,DNA,Routine,2026-04-04 15:00:00,1,1,Verified & Signed,25,24.1
+STP-26-77313,EVD-0323,DNA,Routine,2026-04-04 22:00:00,1,1,Active Analysis,25,28.7
+STP-26-83293,EVD-0324,Toxicology,Routine,2026-04-05 05:00:00,1,1,Verified & Signed,20,19.7
+STP-26-47635,EVD-0325,Crime Scene,Routine,2026-04-05 12:00:00,1,1,Verified & Signed,7,11.2
+STP-26-48947,EVD-0326,Drug Chemistry,Court Subpoena / Trial,2026-04-05 19:00:00,1,1,Verified & Signed,14,14.5
+STP-26-74487,EVD-0327,Trace Evidence,Priority (Urgent),2026-04-06 02:00:00,1,0,Verified & Signed,30,29.9
+STP-26-68169,EVD-0328,Latent Prints,Routine,2026-04-06 09:00:00,1,1,Pending Review,18,12.6
+STP-26-72834,EVD-0329,Trace Evidence,Priority (Urgent),2026-04-06 16:00:00,1,1,QC Hold,30,28.5
+STP-26-41337,EVD-0330,DNA,Routine,2026-04-06 23:00:00,1,1,Active Analysis,25,27.3
+STP-26-99838,EVD-0331,Crime Scene,Routine,2026-04-07 06:00:00,1,1,Pending Review,7,3.3
+STP-26-33257,EVD-0332,Drug Chemistry,Routine,2026-04-07 13:00:00,1,1,Verified & Signed,14,11.8
+STP-26-60549,EVD-0333,Drug Chemistry,Priority (Urgent),2026-04-07 20:00:00,1,1,Verified & Signed,14,17.1
+STP-26-60879,EVD-0334,Drug Chemistry,Routine,2026-04-08 03:00:00,1,1,Verified & Signed,14,16.0
+STP-26-57210,EVD-0335,Latent Prints,Priority (Urgent),2026-04-08 10:00:00,1,1,Verified & Signed,18,22.7
+STP-26-30714,EVD-0336,Crime Scene,Routine,2026-04-08 17:00:00,1,0,Verified & Signed,7,1.0
+STP-26-34012,EVD-0337,Drug Chemistry,Priority (Urgent),2026-04-09 00:00:00,1,1,Verified & Signed,14,16.4
+STP-26-11663,EVD-0338,Crime Scene,Priority (Urgent),2026-04-09 07:00:00,1,1,Verified & Signed,7,9.7
+STP-26-28956,EVD-0339,Drug Chemistry,Routine,2026-04-09 14:00:00,1,1,Verified & Signed,14,14.3
+STP-26-30166,EVD-0340,Latent Prints,Routine,2026-04-09 21:00:00,1,1,Active Analysis,18,24.4
+STP-26-76322,EVD-0341,Drug Chemistry,Routine,2026-04-10 04:00:00,1,1,QC Hold,14,19.7
+STP-26-97080,EVD-0342,Latent Prints,Court Subpoena / Trial,2026-04-10 11:00:00,1,1,Active Analysis,18,20.7
+STP-26-50772,EVD-0343,Drug Chemistry,Routine,2026-04-10 18:00:00,1,1,QC Hold,14,21.3
+STP-26-73274,EVD-0344,Drug Chemistry,Priority (Urgent),2026-04-11 01:00:00,1,1,QC Hold,14,10.6
+STP-26-89749,EVD-0345,Toxicology,Routine,2026-04-11 08:00:00,1,1,QC Hold,20,26.8
+STP-26-59507,EVD-0346,Firearms,Routine,2026-04-11 15:00:00,1,1,Verified & Signed,21,22.5
+STP-26-61837,EVD-0347,Drug Chemistry,Routine,2026-04-11 22:00:00,1,1,Verified & Signed,14,24.6
+STP-26-80301,EVD-0348,Crime Scene,Routine,2026-04-12 05:00:00,1,1,Verified & Signed,7,7.1
+STP-26-30454,EVD-0349,Firearms,Routine,2026-04-12 12:00:00,1,1,Verified & Signed,21,20.3
+STP-26-60221,EVD-0350,Crime Scene,Routine,2026-04-12 19:00:00,1,1,Verified & Signed,7,9.1
+STP-26-93850,EVD-0351,DNA,Routine,2026-04-13 02:00:00,1,1,Verified & Signed,25,27.7
+STP-26-43167,EVD-0352,Latent Prints,Priority (Urgent),2026-04-13 09:00:00,1,1,Verified & Signed,18,18.4
+STP-26-37183,EVD-0353,DNA,Court Subpoena / Trial,2026-04-13 16:00:00,1,1,Verified & Signed,25,27.0
+STP-26-59310,EVD-0354,DNA,Routine,2026-04-13 23:00:00,1,1,Active Analysis,25,19.7
+STP-26-87769,EVD-0355,Drug Chemistry,Priority (Urgent),2026-04-14 06:00:00,1,1,Pending Review,14,8.1
+STP-26-44409,EVD-0356,Latent Prints,Priority (Urgent),2026-04-14 13:00:00,1,1,QC Hold,18,23.7
+STP-26-25043,EVD-0357,DNA,Priority (Urgent),2026-04-14 20:00:00,1,1,Verified & Signed,25,16.8
+STP-26-89622,EVD-0358,Toxicology,Routine,2026-04-15 03:00:00,1,1,QC Hold,20,22.7
+STP-26-53802,EVD-0359,Trace Evidence,Priority (Urgent),2026-04-15 10:00:00,1,1,Verified & Signed,30,35.9
+STP-26-25398,EVD-0360,Firearms,Priority (Urgent),2026-04-15 17:00:00,1,1,Verified & Signed,21,28.8
+STP-26-36338,EVD-0361,Crime Scene,Routine,2026-04-16 00:00:00,1,1,Active Analysis,7,12.4
+STP-26-44500,EVD-0362,Drug Chemistry,Priority (Urgent),2026-04-16 07:00:00,0,1,Active Analysis,14,14.1
+STP-26-75232,EVD-0363,DNA,Priority (Urgent),2026-04-16 14:00:00,1,1,Verified & Signed,25,28.8
+STP-26-36417,EVD-0364,Crime Scene,Routine,2026-04-16 21:00:00,1,1,Verified & Signed,7,7.2
+STP-26-85540,EVD-0365,DNA,Priority (Urgent),2026-04-17 04:00:00,1,1,Verified & Signed,25,29.2
+STP-26-71141,EVD-0366,Drug Chemistry,Priority (Urgent),2026-04-17 11:00:00,1,1,Pending Review,14,9.0
+STP-26-46928,EVD-0367,Latent Prints,Routine,2026-04-17 18:00:00,1,1,Verified & Signed,18,20.1
+STP-26-37764,EVD-0368,Drug Chemistry,Court Subpoena / Trial,2026-04-18 01:00:00,1,1,Verified & Signed,14,10.6
+STP-26-93959,EVD-0369,Firearms,Routine,2026-04-18 08:00:00,1,1,Verified & Signed,21,21.7
+STP-26-23756,EVD-0370,DNA,Court Subpoena / Trial,2026-04-18 15:00:00,1,1,Verified & Signed,25,28.5
+STP-26-74135,EVD-0371,Drug Chemistry,Routine,2026-04-18 22:00:00,1,1,Verified & Signed,14,13.5
+STP-26-99237,EVD-0372,Crime Scene,Routine,2026-04-19 05:00:00,1,1,Verified & Signed,7,16.3
+STP-26-10835,EVD-0373,DNA,Routine,2026-04-19 12:00:00,1,1,Verified & Signed,25,31.2
+STP-26-90062,EVD-0374,DNA,Routine,2026-04-19 19:00:00,1,1,Pending Review,25,27.3
+STP-26-41402,EVD-0375,Latent Prints,Priority (Urgent),2026-04-20 02:00:00,1,1,Verified & Signed,18,20.1
+STP-26-28444,EVD-0376,DNA,Priority (Urgent),2026-04-20 09:00:00,1,1,Verified & Signed,25,26.9
+STP-26-88225,EVD-0377,Latent Prints,Routine,2026-04-20 16:00:00,1,1,Pending Review,18,20.6
+STP-26-97461,EVD-0378,Drug Chemistry,Routine,2026-04-20 23:00:00,1,1,Pending Review,14,23.0
+STP-26-18708,EVD-0379,Crime Scene,Priority (Urgent),2026-04-21 06:00:00,1,1,Verified & Signed,7,6.9
+STP-26-51722,EVD-0380,Toxicology,Routine,2026-04-21 13:00:00,1,1,Verified & Signed,20,17.4
+STP-26-63751,EVD-0381,DNA,Court Subpoena / Trial,2026-04-21 20:00:00,1,1,Verified & Signed,25,24.4
+STP-26-97271,EVD-0382,DNA,Routine,2026-04-22 03:00:00,1,1,Active Analysis,25,26.3
+STP-26-42108,EVD-0383,DNA,Routine,2026-04-22 10:00:00,1,0,Verified & Signed,25,27.7
+STP-26-94690,EVD-0384,Firearms,Routine,2026-04-22 17:00:00,1,1,Verified & Signed,21,19.3
+STP-26-70298,EVD-0385,DNA,Priority (Urgent),2026-04-23 00:00:00,1,1,Active Analysis,25,24.2
+STP-26-30149,EVD-0386,Drug Chemistry,Priority (Urgent),2026-04-23 07:00:00,1,1,Verified & Signed,14,16.0
+STP-26-85651,EVD-0387,Drug Chemistry,Routine,2026-04-23 14:00:00,1,1,Verified & Signed,14,17.0
+STP-26-55332,EVD-0388,DNA,Priority (Urgent),2026-04-23 21:00:00,1,1,Verified & Signed,25,26.8
+STP-26-44848,EVD-0389,DNA,Routine,2026-04-24 04:00:00,1,1,Verified & Signed,25,30.2
+STP-26-46069,EVD-0390,Drug Chemistry,Priority (Urgent),2026-04-24 11:00:00,1,1,Pending Review,14,14.9
+STP-26-65835,EVD-0391,DNA,Routine,2026-04-24 18:00:00,1,1,Pending Review,25,21.5
+STP-26-29439,EVD-0392,DNA,Priority (Urgent),2026-04-25 01:00:00,1,1,Verified & Signed,25,26.4
+STP-26-55841,EVD-0393,Drug Chemistry,Routine,2026-04-25 08:00:00,1,1,Verified & Signed,14,15.1
+STP-26-27793,EVD-0394,Drug Chemistry,Routine,2026-04-25 15:00:00,1,1,Verified & Signed,14,17.3
+STP-26-51617,EVD-0395,Latent Prints,Routine,2026-04-25 22:00:00,1,1,Active Analysis,18,17.4
+STP-26-81743,EVD-0396,Crime Scene,Routine,2026-04-26 05:00:00,1,1,Verified & Signed,7,5.7
+STP-26-37263,EVD-0397,Drug Chemistry,Priority (Urgent),2026-04-26 12:00:00,1,1,Verified & Signed,14,12.9
+STP-26-35993,EVD-0398,Drug Chemistry,Routine,2026-04-26 19:00:00,1,1,Active Analysis,14,21.6
+STP-26-39591,EVD-0399,Drug Chemistry,Priority (Urgent),2026-04-27 02:00:00,1,1,Verified & Signed,14,17.3
+STP-26-31641,EVD-0400,Drug Chemistry,Routine,2026-04-27 09:00:00,1,1,Verified & Signed,14,19.0
+STP-26-72027,EVD-0401,Firearms,Priority (Urgent),2026-04-27 16:00:00,1,1,Verified & Signed,21,19.8
+STP-26-49288,EVD-0402,DNA,Routine,2026-04-27 23:00:00,1,1,Verified & Signed,25,21.2
+STP-26-37995,EVD-0403,Toxicology,Routine,2026-04-28 06:00:00,1,1,Verified & Signed,20,28.9
+STP-26-97921,EVD-0404,Trace Evidence,Priority (Urgent),2026-04-28 13:00:00,1,1,Verified & Signed,30,30.3
+STP-26-88782,EVD-0405,Drug Chemistry,Routine,2026-04-28 20:00:00,1,1,Pending Review,14,8.6
+STP-26-75883,EVD-0406,Firearms,Routine,2026-04-29 03:00:00,1,1,Verified & Signed,21,25.6
+STP-26-54141,EVD-0407,Drug Chemistry,Routine,2026-04-29 10:00:00,1,1,Pending Review,14,14.7
+STP-26-83318,EVD-0408,DNA,Priority (Urgent),2026-04-29 17:00:00,1,1,Pending Review,25,26.8
+STP-26-27442,EVD-0409,Firearms,Routine,2026-04-30 00:00:00,1,1,Pending Review,21,11.5
+STP-26-73491,EVD-0410,Crime Scene,Routine,2026-04-30 07:00:00,1,1,Verified & Signed,7,7.1
+STP-26-73095,EVD-0411,Firearms,Routine,2026-04-30 14:00:00,0,1,Verified & Signed,21,23.4
+STP-26-70660,EVD-0412,Latent Prints,Court Subpoena / Trial,2026-04-30 21:00:00,1,1,Verified & Signed,18,24.5
+STP-26-92805,EVD-0413,DNA,Routine,2026-05-01 04:00:00,1,0,QC Hold,25,27.0
+STP-26-16946,EVD-0414,Latent Prints,Court Subpoena / Trial,2026-05-01 11:00:00,1,1,Verified & Signed,18,26.7
+STP-26-30960,EVD-0415,Drug Chemistry,Routine,2026-05-01 18:00:00,1,1,Verified & Signed,14,6.1
+STP-26-14372,EVD-0416,Drug Chemistry,Routine,2026-05-02 01:00:00,1,1,Verified & Signed,14,10.6
+STP-26-31642,EVD-0417,Firearms,Routine,2026-05-02 08:00:00,1,1,Verified & Signed,21,25.9
+STP-26-70089,EVD-0418,DNA,Priority (Urgent),2026-05-02 15:00:00,1,1,Verified & Signed,25,27.9
+STP-26-74726,EVD-0419,Toxicology,Routine,2026-05-02 22:00:00,1,1,Verified & Signed,20,19.6
+STP-26-36487,EVD-0420,Firearms,Priority (Urgent),2026-05-03 05:00:00,1,1,Verified & Signed,21,31.1
+STP-26-21550,EVD-0421,DNA,Routine,2026-05-03 12:00:00,1,1,Verified & Signed,25,22.9
+STP-26-45365,EVD-0422,Firearms,Routine,2026-05-03 19:00:00,1,1,Verified & Signed,21,23.7
+STP-26-47326,EVD-0423,Toxicology,Routine,2026-05-04 02:00:00,1,1,QC Hold,20,25.9
+STP-26-16567,EVD-0424,Latent Prints,Court Subpoena / Trial,2026-05-04 09:00:00,1,1,Verified & Signed,18,24.3
+STP-26-82872,EVD-0425,Firearms,Routine,2026-05-04 16:00:00,1,1,Verified & Signed,21,22.2
+STP-26-97823,EVD-0426,Drug Chemistry,Routine,2026-05-04 23:00:00,1,1,Verified & Signed,14,21.6
+STP-26-31603,EVD-0427,Crime Scene,Priority (Urgent),2026-05-05 06:00:00,1,1,Pending Review,7,5.6
+STP-26-27627,EVD-0428,Firearms,Priority (Urgent),2026-05-05 13:00:00,1,1,Verified & Signed,21,27.2
+STP-26-15700,EVD-0429,Toxicology,Routine,2026-05-05 20:00:00,1,1,Verified & Signed,20,24.7
+STP-26-59597,EVD-0430,Firearms,Court Subpoena / Trial,2026-05-06 03:00:00,1,1,Verified & Signed,21,28.4
+STP-26-23310,EVD-0431,DNA,Routine,2026-05-06 10:00:00,1,1,Verified & Signed,25,21.0
+STP-26-73286,EVD-0432,DNA,Priority (Urgent),2026-05-06 17:00:00,1,1,Verified & Signed,25,22.3
+STP-26-20429,EVD-0433,Firearms,Routine,2026-05-07 00:00:00,1,1,Verified & Signed,21,21.9
+STP-26-35824,EVD-0434,Latent Prints,Routine,2026-05-07 07:00:00,1,1,QC Hold,18,18.8
+STP-26-54660,EVD-0435,Crime Scene,Routine,2026-05-07 14:00:00,1,1,Verified & Signed,7,3.7
+STP-26-69919,EVD-0436,Latent Prints,Routine,2026-05-07 21:00:00,1,1,Verified & Signed,18,26.5
+STP-26-24045,EVD-0437,Drug Chemistry,Routine,2026-05-08 04:00:00,1,1,Verified & Signed,14,15.4
+STP-26-68126,EVD-0438,DNA,Routine,2026-05-08 11:00:00,1,1,Verified & Signed,25,28.9
+STP-26-49274,EVD-0439,Latent Prints,Court Subpoena / Trial,2026-05-08 18:00:00,1,0,Verified & Signed,18,21.2
+STP-26-60743,EVD-0440,Firearms,Routine,2026-05-09 01:00:00,1,1,Verified & Signed,21,21.1
+STP-26-45173,EVD-0441,Latent Prints,Court Subpoena / Trial,2026-05-09 08:00:00,1,1,Pending Review,18,19.0
+STP-26-35204,EVD-0442,Crime Scene,Court Subpoena / Trial,2026-05-09 15:00:00,1,1,Verified & Signed,7,8.2
+STP-26-48992,EVD-0443,Drug Chemistry,Routine,2026-05-09 22:00:00,1,1,Active Analysis,14,13.7
+STP-26-73766,EVD-0444,DNA,Routine,2026-05-10 05:00:00,1,1,Verified & Signed,25,22.4
+STP-26-50401,EVD-0445,Drug Chemistry,Routine,2026-05-10 12:00:00,1,1,Verified & Signed,14,10.2
+STP-26-68047,EVD-0446,Drug Chemistry,Routine,2026-05-10 19:00:00,1,1,Verified & Signed,14,14.0
+STP-26-86463,EVD-0447,Crime Scene,Routine,2026-05-11 02:00:00,1,1,QC Hold,7,13.8
+STP-26-20079,EVD-0448,Crime Scene,Court Subpoena / Trial,2026-05-11 09:00:00,1,1,Verified & Signed,7,11.1
+STP-26-62975,EVD-0449,Latent Prints,Routine,2026-05-11 16:00:00,1,1,Verified & Signed,18,17.0
+STP-26-54633,EVD-0450,Trace Evidence,Priority (Urgent),2026-05-11 23:00:00,1,0,Verified & Signed,30,35.2
+STP-26-47515,EVD-0451,Firearms,Priority (Urgent),2026-05-12 06:00:00,1,0,QC Hold,21,26.2
+STP-26-93642,EVD-0452,Firearms,Court Subpoena / Trial,2026-05-12 13:00:00,1,1,Verified & Signed,21,26.7
+STP-26-63634,EVD-0453,Firearms,Priority (Urgent),2026-05-12 20:00:00,1,1,Verified & Signed,21,25.4
+STP-26-47702,EVD-0454,Crime Scene,Routine,2026-05-13 03:00:00,1,1,QC Hold,7,15.2
+STP-26-95478,EVD-0455,Crime Scene,Routine,2026-05-13 10:00:00,1,1,Pending Review,7,12.6
+STP-26-38881,EVD-0456,Crime Scene,Routine,2026-05-13 17:00:00,1,0,Pending Review,7,6.7
+STP-26-47592,EVD-0457,DNA,Priority (Urgent),2026-05-14 00:00:00,1,1,Pending Review,25,29.3
+STP-26-25761,EVD-0458,DNA,Routine,2026-05-14 07:00:00,1,1,Verified & Signed,25,24.3
+STP-26-82897,EVD-0459,Drug Chemistry,Routine,2026-05-14 14:00:00,1,1,Verified & Signed,14,15.5
+STP-26-93789,EVD-0460,Drug Chemistry,Court Subpoena / Trial,2026-05-14 21:00:00,1,1,Verified & Signed,14,16.5
+STP-26-81899,EVD-0461,Firearms,Court Subpoena / Trial,2026-05-15 04:00:00,1,1,Verified & Signed,21,27.6
+STP-26-30018,EVD-0462,Firearms,Routine,2026-05-15 11:00:00,1,1,Verified & Signed,21,23.3
+STP-26-75622,EVD-0463,DNA,Priority (Urgent),2026-05-15 18:00:00,1,1,Verified & Signed,25,24.0
+STP-26-37833,EVD-0464,DNA,Routine,2026-05-16 01:00:00,1,1,Verified & Signed,25,23.4
+STP-26-66294,EVD-0465,Drug Chemistry,Court Subpoena / Trial,2026-05-16 08:00:00,1,1,Verified & Signed,14,16.8
+STP-26-30232,EVD-0466,Crime Scene,Routine,2026-05-16 15:00:00,1,1,Verified & Signed,7,12.3
+STP-26-69714,EVD-0467,Trace Evidence,Court Subpoena / Trial,2026-05-16 22:00:00,1,1,Verified & Signed,30,28.8
+STP-26-43787,EVD-0468,DNA,Routine,2026-05-17 05:00:00,1,1,Verified & Signed,25,27.6
+STP-26-14059,EVD-0469,Crime Scene,Court Subpoena / Trial,2026-05-17 12:00:00,1,1,Verified & Signed,7,11.8
+STP-26-42806,EVD-0470,Firearms,Priority (Urgent),2026-05-17 19:00:00,1,1,Verified & Signed,21,21.5
+STP-26-16231,EVD-0471,DNA,Routine,2026-05-18 02:00:00,1,1,Verified & Signed,25,27.9
+STP-26-72080,EVD-0472,Latent Prints,Routine,2026-05-18 09:00:00,1,0,Verified & Signed,18,17.9
+STP-26-76815,EVD-0473,Latent Prints,Routine,2026-05-18 16:00:00,1,1,Verified & Signed,18,20.5
+STP-26-20029,EVD-0474,Drug Chemistry,Routine,2026-05-18 23:00:00,1,0,Pending Review,14,13.9
+STP-26-23181,EVD-0475,Latent Prints,Routine,2026-05-19 06:00:00,1,1,Verified & Signed,18,16.5
+STP-26-99415,EVD-0476,Drug Chemistry,Routine,2026-05-19 13:00:00,1,1,Verified & Signed,14,14.4
+STP-26-11290,EVD-0477,Firearms,Priority (Urgent),2026-05-19 20:00:00,1,1,Active Analysis,21,18.0
+STP-26-87638,EVD-0478,Firearms,Priority (Urgent),2026-05-20 03:00:00,1,1,Pending Review,21,28.7
+STP-26-65187,EVD-0479,Firearms,Priority (Urgent),2026-05-20 10:00:00,1,1,Verified & Signed,21,19.1
+STP-26-45893,EVD-0480,Firearms,Routine,2026-05-20 17:00:00,1,1,Verified & Signed,21,26.1
+STP-26-15716,EVD-0481,Latent Prints,Routine,2026-05-21 00:00:00,0,1,Pending Review,18,6.5
+STP-26-16018,EVD-0482,DNA,Routine,2026-05-21 07:00:00,1,1,Verified & Signed,25,23.6
+STP-26-26450,EVD-0483,DNA,Priority (Urgent),2026-05-21 14:00:00,1,1,Verified & Signed,25,25.3
+STP-26-58874,EVD-0484,Drug Chemistry,Routine,2026-05-21 21:00:00,1,1,Verified & Signed,14,15.8
+STP-26-75589,EVD-0485,DNA,Routine,2026-05-22 04:00:00,1,1,Verified & Signed,25,17.5
+STP-26-94843,EVD-0486,DNA,Priority (Urgent),2026-05-22 11:00:00,1,1,Active Analysis,25,29.6
+STP-26-58156,EVD-0487,Latent Prints,Routine,2026-05-22 18:00:00,1,1,Verified & Signed,18,19.2
+STP-26-46654,EVD-0488,Latent Prints,Routine,2026-05-23 01:00:00,1,1,Verified & Signed,18,16.9
+STP-26-37562,EVD-0489,Firearms,Routine,2026-05-23 08:00:00,1,1,Pending Review,21,24.8
+STP-26-85209,EVD-0490,DNA,Routine,2026-05-23 15:00:00,1,1,Pending Review,25,30.0
+STP-26-14236,EVD-0491,Drug Chemistry,Routine,2026-05-23 22:00:00,1,1,Verified & Signed,14,16.6
+STP-26-87922,EVD-0492,Drug Chemistry,Priority (Urgent),2026-05-24 05:00:00,1,1,Verified & Signed,14,15.8
+STP-26-76495,EVD-0493,DNA,Routine,2026-05-24 12:00:00,1,1,Verified & Signed,25,26.6
+STP-26-23773,EVD-0494,Drug Chemistry,Priority (Urgent),2026-05-24 19:00:00,1,1,Verified & Signed,14,15.9
+STP-26-81381,EVD-0495,Drug Chemistry,Priority (Urgent),2026-05-25 02:00:00,1,1,Verified & Signed,14,16.2
+STP-26-45424,EVD-0496,Trace Evidence,Routine,2026-05-25 09:00:00,1,1,Verified & Signed,30,33.2
+STP-26-31104,EVD-0497,Toxicology,Routine,2026-05-25 16:00:00,1,1,Verified & Signed,20,17.7
+STP-26-27633,EVD-0498,DNA,Routine,2026-05-25 23:00:00,1,1,Verified & Signed,25,25.5
+STP-26-93105,EVD-0499,Drug Chemistry,Routine,2026-05-26 06:00:00,1,1,Active Analysis,14,17.3
+STP-26-31904,EVD-0500,Firearms,Routine,2026-05-26 13:00:00,1,1,Pending Review,21,19.4
+STP-26-82982,EVD-0501,Drug Chemistry,Routine,2026-05-26 20:00:00,1,1,Verified & Signed,14,14.8
+STP-26-84140,EVD-0502,Drug Chemistry,Court Subpoena / Trial,2026-05-27 03:00:00,1,1,Verified & Signed,14,12.6
+STP-26-50496,EVD-0503,Latent Prints,Priority (Urgent),2026-05-27 10:00:00,1,1,Verified & Signed,18,23.6
+STP-26-58187,EVD-0504,Latent Prints,Routine,2026-05-27 17:00:00,1,1,Verified & Signed,18,24.1
+STP-26-69532,EVD-0505,Drug Chemistry,Routine,2026-05-28 00:00:00,1,1,Active Analysis,14,15.3
+STP-26-59329,EVD-0506,DNA,Routine,2026-05-28 07:00:00,1,1,Verified & Signed,25,25.4
+STP-26-31259,EVD-0507,Drug Chemistry,Routine,2026-05-28 14:00:00,1,1,Verified & Signed,14,13.3
+STP-26-74405,EVD-0508,Latent Prints,Routine,2026-05-28 21:00:00,1,0,Verified & Signed,18,20.0
+STP-26-47252,EVD-0509,DNA,Routine,2026-05-29 04:00:00,1,1,Verified & Signed,25,26.4
+STP-26-28628,EVD-0510,Drug Chemistry,Routine,2026-05-29 11:00:00,1,1,QC Hold,14,23.7
+STP-26-75938,EVD-0511,Drug Chemistry,Routine,2026-05-29 18:00:00,1,1,Verified & Signed,14,13.3
+STP-26-69224,EVD-0512,Drug Chemistry,Routine,2026-05-30 01:00:00,1,1,Verified & Signed,14,13.3
+STP-26-35815,EVD-0513,DNA,Routine,2026-05-30 08:00:00,1,1,Verified & Signed,25,31.7
+STP-26-73167,EVD-0514,Drug Chemistry,Routine,2026-05-30 15:00:00,1,1,Verified & Signed,14,7.6
+STP-26-97285,EVD-0515,Latent Prints,Routine,2026-05-30 22:00:00,1,1,Verified & Signed,18,15.6
+STP-26-43668,EVD-0516,DNA,Priority (Urgent),2026-05-31 05:00:00,1,0,Verified & Signed,25,26.4
+STP-26-53163,EVD-0517,Drug Chemistry,Routine,2026-05-31 12:00:00,1,1,QC Hold,14,12.8
+STP-26-77250,EVD-0518,DNA,Routine,2026-05-31 19:00:00,1,1,Verified & Signed,25,28.5
+STP-26-76540,EVD-0519,Firearms,Routine,2026-06-01 02:00:00,1,1,Verified & Signed,21,23.0
+STP-26-82392,EVD-0520,DNA,Routine,2026-06-01 09:00:00,1,1,Pending Review,25,31.6
+STP-26-15713,EVD-0521,Drug Chemistry,Routine,2026-06-01 16:00:00,1,1,Verified & Signed,14,12.8
+STP-26-54162,EVD-0522,DNA,Priority (Urgent),2026-06-01 23:00:00,1,1,Verified & Signed,25,18.6
+STP-26-55793,EVD-0523,Drug Chemistry,Routine,2026-06-02 06:00:00,1,1,Verified & Signed,14,10.0
+STP-26-99084,EVD-0524,Drug Chemistry,Routine,2026-06-02 13:00:00,1,1,Pending Review,14,15.9
+STP-26-69251,EVD-0525,Firearms,Routine,2026-06-02 20:00:00,1,1,Verified & Signed,21,24.2
+STP-26-73461,EVD-0526,DNA,Court Subpoena / Trial,2026-06-03 03:00:00,1,1,Active Analysis,25,23.9
+STP-26-83994,EVD-0527,Drug Chemistry,Routine,2026-06-03 10:00:00,1,1,Verified & Signed,14,13.3
+STP-26-22709,EVD-0528,DNA,Routine,2026-06-03 17:00:00,1,1,Pending Review,25,21.3
+STP-26-33994,EVD-0529,Toxicology,Routine,2026-06-04 00:00:00,1,1,Pending Review,20,21.9
+STP-26-81806,EVD-0530,DNA,Routine,2026-06-04 07:00:00,1,1,Verified & Signed,25,24.1
+STP-26-96205,EVD-0531,DNA,Priority (Urgent),2026-06-04 14:00:00,1,1,Pending Review,25,29.8
+STP-26-16864,EVD-0532,DNA,Routine,2026-06-04 21:00:00,1,1,Pending Review,25,22.0
+STP-26-97457,EVD-0533,Toxicology,Routine,2026-06-05 04:00:00,1,1,QC Hold,20,27.4
+STP-26-83882,EVD-0534,Firearms,Routine,2026-06-05 11:00:00,1,1,Pending Review,21,13.3
+STP-26-64934,EVD-0535,DNA,Priority (Urgent),2026-06-05 18:00:00,1,1,Verified & Signed,25,30.5
+STP-26-84450,EVD-0536,Crime Scene,Routine,2026-06-06 01:00:00,1,1,Verified & Signed,7,8.0
+STP-26-84665,EVD-0537,Drug Chemistry,Routine,2026-06-06 08:00:00,1,1,QC Hold,14,11.5
+STP-26-97203,EVD-0538,Drug Chemistry,Routine,2026-06-06 15:00:00,1,1,Pending Review,14,18.3
+STP-26-78477,EVD-0539,Crime Scene,Court Subpoena / Trial,2026-06-06 22:00:00,1,0,Verified & Signed,7,4.7
+STP-26-72071,EVD-0540,Drug Chemistry,Priority (Urgent),2026-06-07 05:00:00,1,1,Verified & Signed,14,17.3
+STP-26-78236,EVD-0541,Crime Scene,Routine,2026-06-07 12:00:00,1,1,Pending Review,7,7.1
+STP-26-18267,EVD-0542,Latent Prints,Court Subpoena / Trial,2026-06-07 19:00:00,1,1,Verified & Signed,18,16.9
+STP-26-16216,EVD-0543,Trace Evidence,Court Subpoena / Trial,2026-06-08 02:00:00,1,1,Pending Review,30,25.4
+STP-26-71716,EVD-0544,Drug Chemistry,Priority (Urgent),2026-06-08 09:00:00,1,1,Pending Review,14,13.2
+STP-26-41929,EVD-0545,DNA,Routine,2026-06-08 16:00:00,1,1,QC Hold,25,24.6
+STP-26-68777,EVD-0546,Drug Chemistry,Routine,2026-06-08 23:00:00,1,1,Pending Review,14,27.6
+STP-26-77388,EVD-0547,Crime Scene,Priority (Urgent),2026-06-09 06:00:00,1,1,Pending Review,7,8.6
+STP-26-55793,EVD-0548,Trace Evidence,Priority (Urgent),2026-06-09 13:00:00,1,1,Verified & Signed,30,28.8
+STP-26-96638,EVD-0549,DNA,Court Subpoena / Trial,2026-06-09 20:00:00,1,0,Verified & Signed,25,30.7
+STP-26-61721,EVD-0550,DNA,Court Subpoena / Trial,2026-06-10 03:00:00,1,1,Pending Review,25,29.3
+STP-26-60817,EVD-0551,Drug Chemistry,Priority (Urgent),2026-06-10 10:00:00,1,1,Pending Review,14,16.6
+STP-26-70908,EVD-0552,Drug Chemistry,Routine,2026-06-10 17:00:00,1,1,Verified & Signed,14,17.8
+STP-26-47284,EVD-0553,DNA,Routine,2026-06-11 00:00:00,1,1,Pending Review,25,22.7
+STP-26-29696,EVD-0554,Drug Chemistry,Routine,2026-06-11 07:00:00,1,1,Verified & Signed,14,19.3
+STP-26-96759,EVD-0555,DNA,Priority (Urgent),2026-06-11 14:00:00,1,1,Active Analysis,25,25.4
+STP-26-26481,EVD-0556,Crime Scene,Priority (Urgent),2026-06-11 21:00:00,1,1,Verified & Signed,7,8.8
+STP-26-95824,EVD-0557,DNA,Routine,2026-06-12 04:00:00,1,1,Verified & Signed,25,22.2
+STP-26-88447,EVD-0558,Firearms,Routine,2026-06-12 11:00:00,1,1,Pending Review,21,26.3
+STP-26-27612,EVD-0559,DNA,Priority (Urgent),2026-06-12 18:00:00,1,1,Verified & Signed,25,18.8
+STP-26-45383,EVD-0560,Latent Prints,Routine,2026-06-13 01:00:00,1,1,Active Analysis,18,14.2
+STP-26-54237,EVD-0561,Drug Chemistry,Routine,2026-06-13 08:00:00,1,1,Verified & Signed,14,16.4
+STP-26-23373,EVD-0562,DNA,Routine,2026-06-13 15:00:00,1,1,Pending Review,25,24.5
+STP-26-41637,EVD-0563,Latent Prints,Routine,2026-06-13 22:00:00,1,1,Verified & Signed,18,14.2
+STP-26-48352,EVD-0564,DNA,Priority (Urgent),2026-06-14 05:00:00,0,1,Active Analysis,25,18.2
+STP-26-87634,EVD-0565,DNA,Priority (Urgent),2026-06-14 12:00:00,1,1,Pending Review,25,25.6
+STP-26-40415,EVD-0566,Trace Evidence,Priority (Urgent),2026-06-14 19:00:00,1,1,Active Analysis,30,31.0
+STP-26-23999,EVD-0567,Drug Chemistry,Priority (Urgent),2026-06-15 02:00:00,1,1,Verified & Signed,14,14.6
+STP-26-55023,EVD-0568,DNA,Routine,2026-06-15 09:00:00,1,1,Verified & Signed,25,29.2
+STP-26-78943,EVD-0569,DNA,Routine,2026-06-15 16:00:00,1,1,Active Analysis,25,28.0
+STP-26-36766,EVD-0570,DNA,Routine,2026-06-15 23:00:00,1,1,Verified & Signed,25,28.4
+STP-26-34786,EVD-0571,Drug Chemistry,Routine,2026-06-16 06:00:00,1,1,Verified & Signed,14,14.3
+STP-26-98435,EVD-0572,Drug Chemistry,Court Subpoena / Trial,2026-06-16 13:00:00,1,1,Active Analysis,14,15.8
+STP-26-59330,EVD-0573,Crime Scene,Routine,2026-06-16 20:00:00,1,1,Verified & Signed,7,3.1
+STP-26-27808,EVD-0574,DNA,Priority (Urgent),2026-06-17 03:00:00,1,1,Pending Review,25,23.8
+STP-26-93189,EVD-0575,DNA,Priority (Urgent),2026-06-17 10:00:00,1,1,Verified & Signed,25,20.0
+STP-26-41989,EVD-0576,Drug Chemistry,Routine,2026-06-17 17:00:00,1,1,Pending Review,14,19.2
+STP-26-30675,EVD-0577,Latent Prints,Routine,2026-06-18 00:00:00,1,1,Verified & Signed,18,28.7
+STP-26-21130,EVD-0578,DNA,Priority (Urgent),2026-06-18 07:00:00,1,1,Verified & Signed,25,29.0
+STP-26-54597,EVD-0579,Crime Scene,Priority (Urgent),2026-06-18 14:00:00,1,1,Verified & Signed,7,8.8
+STP-26-19638,EVD-0580,Crime Scene,Routine,2026-06-18 21:00:00,1,1,Verified & Signed,7,9.1
+STP-26-79376,EVD-0581,Latent Prints,Priority (Urgent),2026-06-19 04:00:00,1,1,Verified & Signed,18,25.9
+STP-26-79244,EVD-0582,Latent Prints,Priority (Urgent),2026-06-19 11:00:00,1,1,Active Analysis,18,17.6
+STP-26-22430,EVD-0583,Crime Scene,Priority (Urgent),2026-06-19 18:00:00,1,0,Verified & Signed,7,4.7
+STP-26-47195,EVD-0584,Trace Evidence,Routine,2026-06-20 01:00:00,1,1,Verified & Signed,30,34.7
+STP-26-66666,EVD-0585,Drug Chemistry,Routine,2026-06-20 08:00:00,1,1,QC Hold,14,22.3
+STP-26-85422,EVD-0586,Latent Prints,Court Subpoena / Trial,2026-06-20 15:00:00,1,1,Verified & Signed,18,17.9
+STP-26-50748,EVD-0587,DNA,Routine,2026-06-20 22:00:00,1,1,Verified & Signed,25,26.5
+STP-26-65680,EVD-0588,DNA,Routine,2026-06-21 05:00:00,1,1,Verified & Signed,25,25.5
+STP-26-68512,EVD-0589,DNA,Priority (Urgent),2026-06-21 12:00:00,1,1,Active Analysis,25,29.3
+STP-26-49851,EVD-0590,Crime Scene,Routine,2026-06-21 19:00:00,1,1,Verified & Signed,7,5.3
+STP-26-19894,EVD-0591,DNA,Routine,2026-06-22 02:00:00,1,1,QC Hold,25,27.9
+STP-26-48724,EVD-0592,Firearms,Routine,2026-06-22 09:00:00,1,1,Verified & Signed,21,18.0
+STP-26-14229,EVD-0593,Firearms,Court Subpoena / Trial,2026-06-22 16:00:00,1,1,Verified & Signed,21,24.5
+STP-26-51877,EVD-0594,Drug Chemistry,Routine,2026-06-22 23:00:00,1,1,Verified & Signed,14,16.2
+STP-26-11916,EVD-0595,Latent Prints,Routine,2026-06-23 06:00:00,1,1,Pending Review,18,16.7
+STP-26-21058,EVD-0596,Drug Chemistry,Court Subpoena / Trial,2026-06-23 13:00:00,1,1,QC Hold,14,12.8
+STP-26-31466,EVD-0597,Toxicology,Routine,2026-06-23 20:00:00,1,1,Verified & Signed,20,26.8
+STP-26-38767,EVD-0598,Crime Scene,Routine,2026-06-24 03:00:00,1,1,Verified & Signed,7,20.1
+STP-26-33140,EVD-0599,DNA,Routine,2026-06-24 10:00:00,1,1,Pending Review,25,30.7
+STP-26-16526,EVD-0600,DNA,Priority (Urgent),2026-06-24 17:00:00,1,1,Verified & Signed,25,26.1
+STP-26-94187,EVD-0601,DNA,Court Subpoena / Trial,2026-06-25 00:00:00,1,1,Pending Review,25,32.4
+STP-26-77737,EVD-0602,Drug Chemistry,Routine,2026-06-25 07:00:00,1,1,Pending Review,14,13.2
+STP-26-49828,EVD-0603,Toxicology,Routine,2026-06-25 14:00:00,1,1,Verified & Signed,20,24.5
+STP-26-11959,EVD-0604,DNA,Priority (Urgent),2026-06-25 21:00:00,1,1,Verified & Signed,25,21.5
+STP-26-71349,EVD-0605,DNA,Routine,2026-06-26 04:00:00,1,1,Verified & Signed,25,20.4
+STP-26-25440,EVD-0606,Drug Chemistry,Routine,2026-06-26 11:00:00,1,1,Active Analysis,14,21.2
+STP-26-19328,EVD-0607,Crime Scene,Priority (Urgent),2026-06-26 18:00:00,1,1,Verified & Signed,7,14.8
+STP-26-67574,EVD-0608,DNA,Routine,2026-06-27 01:00:00,1,1,Pending Review,25,34.4
+STP-26-49600,EVD-0609,Toxicology,Court Subpoena / Trial,2026-06-27 08:00:00,1,1,Verified & Signed,20,21.3
+STP-26-68748,EVD-0610,DNA,Routine,2026-06-27 15:00:00,1,1,Verified & Signed,25,22.8
+STP-26-38159,EVD-0611,Drug Chemistry,Priority (Urgent),2026-06-27 22:00:00,1,1,Active Analysis,14,18.2
+STP-26-45256,EVD-0612,Trace Evidence,Court Subpoena / Trial,2026-06-28 05:00:00,1,1,Verified & Signed,30,29.1
+STP-26-81209,EVD-0613,DNA,Priority (Urgent),2026-06-28 12:00:00,1,1,Verified & Signed,25,18.3
+STP-26-75758,EVD-0614,DNA,Routine,2026-06-28 19:00:00,1,1,Verified & Signed,25,28.3
+STP-26-13935,EVD-0615,Latent Prints,Priority (Urgent),2026-06-29 02:00:00,1,1,Verified & Signed,18,18.3
+STP-26-57285,EVD-0616,Drug Chemistry,Priority (Urgent),2026-06-29 09:00:00,1,1,Verified & Signed,14,15.0
+STP-26-69400,EVD-0617,Drug Chemistry,Priority (Urgent),2026-06-29 16:00:00,1,1,Verified & Signed,14,16.0
+STP-26-78378,EVD-0618,Crime Scene,Routine,2026-06-29 23:00:00,1,1,Active Analysis,7,7.5
+STP-26-68832,EVD-0619,DNA,Court Subpoena / Trial,2026-06-30 06:00:00,1,1,Verified & Signed,25,30.7
+STP-26-94905,EVD-0620,Drug Chemistry,Routine,2026-06-30 13:00:00,1,1,Verified & Signed,14,16.6
+STP-26-85066,EVD-0621,Latent Prints,Routine,2026-06-30 20:00:00,1,1,Verified & Signed,18,24.9
+STP-26-26131,EVD-0622,Trace Evidence,Routine,2026-07-01 03:00:00,1,1,QC Hold,30,36.9
+STP-26-71088,EVD-0623,Crime Scene,Priority (Urgent),2026-07-01 10:00:00,1,1,Verified & Signed,7,4.2
+STP-26-41279,EVD-0624,Trace Evidence,Routine,2026-07-01 17:00:00,1,1,Pending Review,30,24.7
+STP-26-82771,EVD-0625,DNA,Priority (Urgent),2026-07-02 00:00:00,1,1,Verified & Signed,25,28.9
+STP-26-99316,EVD-0626,DNA,Priority (Urgent),2026-07-02 07:00:00,1,1,Active Analysis,25,28.6
+STP-26-56840,EVD-0627,Latent Prints,Routine,2026-07-02 14:00:00,1,1,Verified & Signed,18,22.4
+STP-26-51998,EVD-0628,DNA,Routine,2026-07-02 21:00:00,1,1,Verified & Signed,25,24.7
+STP-26-63530,EVD-0629,Firearms,Routine,2026-07-03 04:00:00,1,0,Pending Review,21,24.9
+STP-26-78439,EVD-0630,Latent Prints,Routine,2026-07-03 11:00:00,1,1,Pending Review,18,20.5
+STP-26-59473,EVD-0631,Drug Chemistry,Priority (Urgent),2026-07-03 18:00:00,1,1,Pending Review,14,5.6
+STP-26-24833,EVD-0632,Firearms,Court Subpoena / Trial,2026-07-04 01:00:00,1,1,Verified & Signed,21,20.1
+STP-26-92981,EVD-0633,Drug Chemistry,Court Subpoena / Trial,2026-07-04 08:00:00,1,1,Active Analysis,14,19.7
+STP-26-25867,EVD-0634,Latent Prints,Priority (Urgent),2026-07-04 15:00:00,1,1,Verified & Signed,18,20.6
+STP-26-29017,EVD-0635,Latent Prints,Routine,2026-07-04 22:00:00,1,1,Verified & Signed,18,13.7
+STP-26-34885,EVD-0636,DNA,Routine,2026-07-05 05:00:00,1,1,Pending Review,25,28.2
+STP-26-24938,EVD-0637,DNA,Routine,2026-07-05 12:00:00,1,1,Verified & Signed,25,21.5
+STP-26-59569,EVD-0638,DNA,Routine,2026-07-05 19:00:00,1,1,QC Hold,25,28.1
+STP-26-22233,EVD-0639,Drug Chemistry,Routine,2026-07-06 02:00:00,1,1,Verified & Signed,14,19.4
+STP-26-96671,EVD-0640,Toxicology,Routine,2026-07-06 09:00:00,1,1,Verified & Signed,20,14.1
+STP-26-74070,EVD-0641,DNA,Routine,2026-07-06 16:00:00,1,1,Verified & Signed,25,24.9
+STP-26-95855,EVD-0642,DNA,Priority (Urgent),2026-07-06 23:00:00,1,1,Verified & Signed,25,19.3
+STP-26-98741,EVD-0643,Latent Prints,Priority (Urgent),2026-07-07 06:00:00,1,1,Verified & Signed,18,17.7
+STP-26-52688,EVD-0644,DNA,Routine,2026-07-07 13:00:00,1,1,Verified & Signed,25,25.9
+STP-26-85811,EVD-0645,Drug Chemistry,Priority (Urgent),2026-07-07 20:00:00,1,1,Verified & Signed,14,17.7
+STP-26-57522,EVD-0646,Crime Scene,Priority (Urgent),2026-07-08 03:00:00,1,1,Active Analysis,7,11.4
+STP-26-58862,EVD-0647,Firearms,Routine,2026-07-08 10:00:00,1,1,Verified & Signed,21,22.3
+STP-26-77003,EVD-0648,Latent Prints,Priority (Urgent),2026-07-08 17:00:00,1,1,Verified & Signed,18,19.4
+STP-26-25119,EVD-0649,Crime Scene,Routine,2026-07-09 00:00:00,1,1,Verified & Signed,7,7.9
+STP-26-44836,EVD-0650,DNA,Routine,2026-07-09 07:00:00,1,1,Active Analysis,25,23.0
+STP-26-52278,EVD-0651,Drug Chemistry,Routine,2026-07-09 14:00:00,1,1,Verified & Signed,14,13.7
+STP-26-47413,EVD-0652,Latent Prints,Routine,2026-07-09 21:00:00,1,1,Verified & Signed,18,20.3
+STP-26-47812,EVD-0653,Drug Chemistry,Routine,2026-07-10 04:00:00,1,1,Verified & Signed,14,17.4
+STP-26-49394,EVD-0654,Crime Scene,Priority (Urgent),2026-07-10 11:00:00,1,1,Pending Review,7,3.0
+STP-26-37363,EVD-0655,Drug Chemistry,Routine,2026-07-10 18:00:00,1,1,Active Analysis,14,19.5
+STP-26-86956,EVD-0656,Firearms,Routine,2026-07-11 01:00:00,1,1,Verified & Signed,21,23.3
+STP-26-58312,EVD-0657,Drug Chemistry,Routine,2026-07-11 08:00:00,1,1,Verified & Signed,14,14.0
+STP-26-58061,EVD-0658,Drug Chemistry,Court Subpoena / Trial,2026-07-11 15:00:00,1,1,Verified & Signed,14,12.7
+STP-26-98119,EVD-0659,DNA,Priority (Urgent),2026-07-11 22:00:00,1,1,Verified & Signed,25,27.9
+STP-26-45010,EVD-0660,Trace Evidence,Routine,2026-07-12 05:00:00,1,1,Pending Review,30,42.1
+STP-26-37102,EVD-0661,Crime Scene,Routine,2026-07-12 12:00:00,0,1,Verified & Signed,7,6.2
+STP-26-97779,EVD-0662,Drug Chemistry,Routine,2026-07-12 19:00:00,1,1,Verified & Signed,14,11.9
+STP-26-98253,EVD-0663,Crime Scene,Priority (Urgent),2026-07-13 02:00:00,1,1,Verified & Signed,7,16.1
+STP-26-50446,EVD-0664,Drug Chemistry,Routine,2026-07-13 09:00:00,1,1,Pending Review,14,23.4
+STP-26-18392,EVD-0665,Firearms,Routine,2026-07-13 16:00:00,1,1,Pending Review,21,22.1
+STP-26-71136,EVD-0666,Crime Scene,Routine,2026-07-13 23:00:00,1,1,Verified & Signed,7,12.2
+STP-26-48811,EVD-0667,Latent Prints,Routine,2026-07-14 06:00:00,1,1,Verified & Signed,18,17.9
+STP-26-51858,EVD-0668,Firearms,Routine,2026-07-14 13:00:00,1,1,Pending Review,21,21.7
+STP-26-92998,EVD-0669,Trace Evidence,Routine,2026-07-14 20:00:00,1,1,Active Analysis,30,33.7
+STP-26-72302,EVD-0670,Drug Chemistry,Priority (Urgent),2026-07-15 03:00:00,1,1,Verified & Signed,14,19.4
+STP-26-43701,EVD-0671,Drug Chemistry,Routine,2026-07-15 10:00:00,1,1,Verified & Signed,14,18.6
+STP-26-86053,EVD-0672,DNA,Priority (Urgent),2026-07-15 17:00:00,1,1,Verified & Signed,25,26.5
+STP-26-26024,EVD-0673,Latent Prints,Routine,2026-07-16 00:00:00,1,0,Verified & Signed,18,23.8
+STP-26-65273,EVD-0674,Latent Prints,Routine,2026-07-16 07:00:00,1,1,QC Hold,18,14.9
+STP-26-45550,EVD-0675,Drug Chemistry,Routine,2026-07-16 14:00:00,1,1,Verified & Signed,14,14.1
+STP-26-29386,EVD-0676,Crime Scene,Priority (Urgent),2026-07-16 21:00:00,1,1,Pending Review,7,3.7
+STP-26-24020,EVD-0677,Toxicology,Priority (Urgent),2026-07-17 04:00:00,1,1,Pending Review,20,13.7
+STP-26-13699,EVD-0678,Drug Chemistry,Routine,2026-07-17 11:00:00,1,1,Pending Review,14,20.4
+STP-26-24642,EVD-0679,DNA,Routine,2026-07-17 18:00:00,1,1,Verified & Signed,25,29.7
+STP-26-71390,EVD-0680,Firearms,Routine,2026-07-18 01:00:00,1,1,Verified & Signed,21,20.9
+STP-26-52865,EVD-0681,DNA,Routine,2026-07-18 08:00:00,1,1,Active Analysis,25,24.2
+STP-26-59249,EVD-0682,Crime Scene,Priority (Urgent),2026-07-18 15:00:00,1,1,Verified & Signed,7,12.6
+STP-26-45545,EVD-0683,Firearms,Priority (Urgent),2026-07-18 22:00:00,1,1,Verified & Signed,21,29.3
+STP-26-37971,EVD-0684,DNA,Routine,2026-07-19 05:00:00,1,1,Verified & Signed,25,30.7
+STP-26-66851,EVD-0685,DNA,Priority (Urgent),2026-07-19 12:00:00,1,1,Verified & Signed,25,26.5
+STP-26-80982,EVD-0686,Crime Scene,Court Subpoena / Trial,2026-07-19 19:00:00,1,1,Pending Review,7,13.5
+STP-26-18455,EVD-0687,Crime Scene,Priority (Urgent),2026-07-20 02:00:00,0,1,Pending Review,7,4.1
+STP-26-12746,EVD-0688,DNA,Routine,2026-07-20 09:00:00,1,0,Verified & Signed,25,22.9
+STP-26-75350,EVD-0689,Latent Prints,Court Subpoena / Trial,2026-07-20 16:00:00,1,1,Verified & Signed,18,19.0
+STP-26-47676,EVD-0690,Crime Scene,Routine,2026-07-20 23:00:00,1,1,Verified & Signed,7,3.2
+STP-26-46690,EVD-0691,DNA,Routine,2026-07-21 06:00:00,1,1,Verified & Signed,25,26.5
+STP-26-62100,EVD-0692,DNA,Court Subpoena / Trial,2026-07-21 13:00:00,1,1,Pending Review,25,25.0
+STP-26-78691,EVD-0693,DNA,Routine,2026-07-21 20:00:00,1,1,Verified & Signed,25,23.2
+STP-26-33709,EVD-0694,Drug Chemistry,Routine,2026-07-22 03:00:00,1,1,Verified & Signed,14,13.7
+STP-26-55493,EVD-0695,Drug Chemistry,Priority (Urgent),2026-07-22 10:00:00,1,1,Verified & Signed,14,20.5
+STP-26-61276,EVD-0696,DNA,Routine,2026-07-22 17:00:00,1,1,Verified & Signed,25,28.6
+STP-26-78210,EVD-0697,Drug Chemistry,Priority (Urgent),2026-07-23 00:00:00,1,1,Verified & Signed,14,21.2
+STP-26-17056,EVD-0698,Latent Prints,Routine,2026-07-23 07:00:00,1,1,Verified & Signed,18,14.5
+STP-26-75742,EVD-0699,Drug Chemistry,Routine,2026-07-23 14:00:00,1,1,Verified & Signed,14,10.4
+STP-26-37826,EVD-0700,DNA,Routine,2026-07-23 21:00:00,1,1,Verified & Signed,25,20.9
+STP-26-97110,EVD-0701,Drug Chemistry,Routine,2026-07-24 04:00:00,1,1,Verified & Signed,14,13.2
+STP-26-73581,EVD-0702,Crime Scene,Priority (Urgent),2026-07-24 11:00:00,1,1,Pending Review,7,10.5
+STP-26-97414,EVD-0703,Toxicology,Routine,2026-07-24 18:00:00,1,1,Verified & Signed,20,20.9
+STP-26-97100,EVD-0704,Latent Prints,Routine,2026-07-25 01:00:00,1,1,Verified & Signed,18,10.3
+STP-26-78951,EVD-0705,DNA,Priority (Urgent),2026-07-25 08:00:00,1,1,Verified & Signed,25,30.5
+STP-26-68655,EVD-0706,Crime Scene,Routine,2026-07-25 15:00:00,1,1,Active Analysis,7,3.4
+STP-26-89648,EVD-0707,Drug Chemistry,Routine,2026-07-25 22:00:00,1,1,Verified & Signed,14,22.2
+STP-26-47088,EVD-0708,Trace Evidence,Priority (Urgent),2026-07-26 05:00:00,1,1,QC Hold,30,32.6
+STP-26-21019,EVD-0709,Firearms,Court Subpoena / Trial,2026-07-26 12:00:00,1,1,Pending Review,21,22.5
+STP-26-43559,EVD-0710,Crime Scene,Routine,2026-07-26 19:00:00,1,1,Active Analysis,7,7.7
+STP-26-96307,EVD-0711,Latent Prints,Routine,2026-07-27 02:00:00,1,1,Pending Review,18,22.9
+STP-26-81524,EVD-0712,Crime Scene,Routine,2026-07-27 09:00:00,1,1,Verified & Signed,7,12.3
+STP-26-34435,EVD-0713,Drug Chemistry,Routine,2026-07-27 16:00:00,1,1,Verified & Signed,14,20.9
+STP-26-76601,EVD-0714,Firearms,Routine,2026-07-27 23:00:00,1,1,Verified & Signed,21,21.8
+STP-26-53189,EVD-0715,Toxicology,Routine,2026-07-28 06:00:00,1,1,Verified & Signed,20,22.0
+STP-26-21954,EVD-0716,Drug Chemistry,Routine,2026-07-28 13:00:00,1,1,Active Analysis,14,17.8
+STP-26-88438,EVD-0717,Crime Scene,Priority (Urgent),2026-07-28 20:00:00,1,1,QC Hold,7,11.0
+STP-26-69677,EVD-0718,Crime Scene,Court Subpoena / Trial,2026-07-29 03:00:00,1,1,Verified & Signed,7,6.9
+STP-26-76542,EVD-0719,Crime Scene,Routine,2026-07-29 10:00:00,1,1,Verified & Signed,7,10.8
+STP-26-38247,EVD-0720,DNA,Court Subpoena / Trial,2026-07-29 17:00:00,1,1,Verified & Signed,25,23.2
+STP-26-75264,EVD-0721,Latent Prints,Routine,2026-07-30 00:00:00,1,1,Verified & Signed,18,20.1
+STP-26-96507,EVD-0722,Drug Chemistry,Priority (Urgent),2026-07-30 07:00:00,1,1,Verified & Signed,14,17.3
+STP-26-25490,EVD-0723,DNA,Priority (Urgent),2026-07-30 14:00:00,1,1,Verified & Signed,25,28.5
+STP-26-79797,EVD-0724,DNA,Routine,2026-07-30 21:00:00,1,1,Verified & Signed,25,20.9
+STP-26-67412,EVD-0725,DNA,Routine,2026-07-31 04:00:00,1,1,Verified & Signed,25,25.9
+STP-26-75973,EVD-0726,DNA,Routine,2026-07-31 11:00:00,1,1,QC Hold,25,30.7
+STP-26-73256,EVD-0727,Drug Chemistry,Priority (Urgent),2026-07-31 18:00:00,1,1,QC Hold,14,5.6
+STP-26-74726,EVD-0728,Drug Chemistry,Routine,2026-08-01 01:00:00,1,1,Verified & Signed,14,16.4
+STP-26-57962,EVD-0729,Crime Scene,Routine,2026-08-01 08:00:00,1,1,Verified & Signed,7,4.7
+STP-26-79816,EVD-0730,Firearms,Priority (Urgent),2026-08-01 15:00:00,1,1,Verified & Signed,21,18.7
+STP-26-99054,EVD-0731,Firearms,Routine,2026-08-01 22:00:00,1,1,Verified & Signed,21,27.6
+STP-26-92509,EVD-0732,Latent Prints,Priority (Urgent),2026-08-02 05:00:00,1,1,Verified & Signed,18,19.7
+STP-26-38241,EVD-0733,Latent Prints,Priority (Urgent),2026-08-02 12:00:00,1,1,QC Hold,18,21.0
+STP-26-87874,EVD-0734,Drug Chemistry,Priority (Urgent),2026-08-02 19:00:00,1,1,Verified & Signed,14,14.2
+STP-26-99709,EVD-0735,DNA,Routine,2026-08-03 02:00:00,1,1,QC Hold,25,23.3
+STP-26-82478,EVD-0736,Latent Prints,Priority (Urgent),2026-08-03 09:00:00,1,1,Verified & Signed,18,27.1
+STP-26-87314,EVD-0737,DNA,Routine,2026-08-03 16:00:00,1,1,Verified & Signed,25,24.9
+STP-26-28353,EVD-0738,Firearms,Routine,2026-08-03 23:00:00,1,1,Verified & Signed,21,19.4
+STP-26-10575,EVD-0739,DNA,Routine,2026-08-04 06:00:00,1,1,QC Hold,25,24.0
+STP-26-27114,EVD-0740,Crime Scene,Priority (Urgent),2026-08-04 13:00:00,1,1,Pending Review,7,6.1
+STP-26-95888,EVD-0741,DNA,Court Subpoena / Trial,2026-08-04 20:00:00,1,1,Pending Review,25,27.3
+STP-26-29296,EVD-0742,DNA,Routine,2026-08-05 03:00:00,1,1,QC Hold,25,21.7
+STP-26-67565,EVD-0743,Trace Evidence,Routine,2026-08-05 10:00:00,1,1,Verified & Signed,30,33.7
+STP-26-41790,EVD-0744,Toxicology,Routine,2026-08-05 17:00:00,1,1,Verified & Signed,20,18.6
+STP-26-62307,EVD-0745,Crime Scene,Routine,2026-08-06 00:00:00,1,1,Verified & Signed,7,7.0
+STP-26-93443,EVD-0746,Latent Prints,Routine,2026-08-06 07:00:00,1,1,Pending Review,18,13.3
+STP-26-45611,EVD-0747,Trace Evidence,Priority (Urgent),2026-08-06 14:00:00,1,1,Verified & Signed,30,24.2
+STP-26-81591,EVD-0748,Latent Prints,Routine,2026-08-06 21:00:00,1,1,QC Hold,18,21.2
+STP-26-12086,EVD-0749,Firearms,Routine,2026-08-07 04:00:00,1,1,Verified & Signed,21,21.7
+STP-26-96181,EVD-0750,Drug Chemistry,Priority (Urgent),2026-08-07 11:00:00,1,1,Active Analysis,14,16.7
+STP-26-62235,EVD-0751,Crime Scene,Court Subpoena / Trial,2026-08-07 18:00:00,1,1,Verified & Signed,7,16.1
+STP-26-21484,EVD-0752,Drug Chemistry,Priority (Urgent),2026-08-08 01:00:00,1,1,Verified & Signed,14,16.3
+STP-26-12638,EVD-0753,Drug Chemistry,Routine,2026-08-08 08:00:00,1,1,Verified & Signed,14,17.8
+STP-26-61390,EVD-0754,DNA,Routine,2026-08-08 15:00:00,1,1,Pending Review,25,28.0
+STP-26-63258,EVD-0755,DNA,Court Subpoena / Trial,2026-08-08 22:00:00,1,1,Verified & Signed,25,25.7
+STP-26-32659,EVD-0756,Drug Chemistry,Routine,2026-08-09 05:00:00,1,1,Verified & Signed,14,21.1
+STP-26-85944,EVD-0757,Drug Chemistry,Priority (Urgent),2026-08-09 12:00:00,1,1,Verified & Signed,14,24.7
+STP-26-44119,EVD-0758,DNA,Routine,2026-08-09 19:00:00,1,1,Active Analysis,25,22.2
+STP-26-99341,EVD-0759,Drug Chemistry,Routine,2026-08-10 02:00:00,1,1,Verified & Signed,14,20.6
+STP-26-52814,EVD-0760,Firearms,Routine,2026-08-10 09:00:00,1,1,Pending Review,21,20.4
+STP-26-64509,EVD-0761,Drug Chemistry,Routine,2026-08-10 16:00:00,1,1,Verified & Signed,14,13.8
+STP-26-65284,EVD-0762,Toxicology,Routine,2026-08-10 23:00:00,1,1,Verified & Signed,20,24.7
+STP-26-19924,EVD-0763,Drug Chemistry,Court Subpoena / Trial,2026-08-11 06:00:00,0,1,Pending Review,14,19.6
+STP-26-34998,EVD-0764,DNA,Routine,2026-08-11 13:00:00,1,1,Verified & Signed,25,38.4
+STP-26-46892,EVD-0765,Firearms,Routine,2026-08-11 20:00:00,1,1,Verified & Signed,21,22.8
+STP-26-18160,EVD-0766,Drug Chemistry,Routine,2026-08-12 03:00:00,1,1,Verified & Signed,14,14.7
+STP-26-41586,EVD-0767,DNA,Routine,2026-08-12 10:00:00,1,1,Verified & Signed,25,25.2
+STP-26-17393,EVD-0768,Firearms,Priority (Urgent),2026-08-12 17:00:00,1,1,Verified & Signed,21,27.8
+STP-26-24393,EVD-0769,Crime Scene,Routine,2026-08-13 00:00:00,0,1,Verified & Signed,7,9.1
+STP-26-50159,EVD-0770,Drug Chemistry,Routine,2026-08-13 07:00:00,1,1,Verified & Signed,14,11.6
+STP-26-18063,EVD-0771,Drug Chemistry,Routine,2026-08-13 14:00:00,1,1,Verified & Signed,14,21.0
+STP-26-88034,EVD-0772,Crime Scene,Priority (Urgent),2026-08-13 21:00:00,1,1,Verified & Signed,7,1.0
+STP-26-50516,EVD-0773,Drug Chemistry,Routine,2026-08-14 04:00:00,1,1,Active Analysis,14,10.4
+STP-26-28033,EVD-0774,Latent Prints,Court Subpoena / Trial,2026-08-14 11:00:00,1,1,QC Hold,18,22.1
+STP-26-34535,EVD-0775,DNA,Priority (Urgent),2026-08-14 18:00:00,1,1,Verified & Signed,25,24.4
+STP-26-94155,EVD-0776,Crime Scene,Routine,2026-08-15 01:00:00,1,1,Verified & Signed,7,6.3
+STP-26-28297,EVD-0777,Latent Prints,Routine,2026-08-15 08:00:00,1,1,Verified & Signed,18,23.5
+STP-26-12714,EVD-0778,DNA,Routine,2026-08-15 15:00:00,1,1,Active Analysis,25,25.0
+STP-26-40676,EVD-0779,DNA,Routine,2026-08-15 22:00:00,1,1,Verified & Signed,25,28.8
+STP-26-41441,EVD-0780,DNA,Routine,2026-08-16 05:00:00,1,1,Pending Review,25,21.9
+STP-26-98267,EVD-0781,Crime Scene,Routine,2026-08-16 12:00:00,1,1,Verified & Signed,7,5.7
+STP-26-69734,EVD-0782,Toxicology,Priority (Urgent),2026-08-16 19:00:00,1,1,Active Analysis,20,19.4
+STP-26-46275,EVD-0783,Drug Chemistry,Routine,2026-08-17 02:00:00,1,1,Pending Review,14,9.6
+STP-26-77813,EVD-0784,DNA,Routine,2026-08-17 09:00:00,1,1,Pending Review,25,30.9
+STP-26-61573,EVD-0785,Drug Chemistry,Priority (Urgent),2026-08-17 16:00:00,1,1,Active Analysis,14,19.0
+STP-26-93571,EVD-0786,Firearms,Priority (Urgent),2026-08-17 23:00:00,1,1,Verified & Signed,21,23.9
+STP-26-78975,EVD-0787,Latent Prints,Routine,2026-08-18 06:00:00,1,1,Verified & Signed,18,16.2
+STP-26-70032,EVD-0788,DNA,Routine,2026-08-18 13:00:00,1,1,Active Analysis,25,22.2
+STP-26-66428,EVD-0789,DNA,Routine,2026-08-18 20:00:00,1,1,Active Analysis,25,26.8
+STP-26-21601,EVD-0790,Firearms,Routine,2026-08-19 03:00:00,1,1,Verified & Signed,21,16.6
+STP-26-73112,EVD-0791,Drug Chemistry,Routine,2026-08-19 10:00:00,1,1,QC Hold,14,19.7
+STP-26-30142,EVD-0792,Firearms,Priority (Urgent),2026-08-19 17:00:00,1,1,Active Analysis,21,21.9
+STP-26-85805,EVD-0793,Latent Prints,Routine,2026-08-20 00:00:00,1,1,Active Analysis,18,16.4
+STP-26-41932,EVD-0794,Drug Chemistry,Routine,2026-08-20 07:00:00,1,1,Verified & Signed,14,13.5
+STP-26-65324,EVD-0795,DNA,Routine,2026-08-20 14:00:00,1,1,Active Analysis,25,26.7
+STP-26-57621,EVD-0796,DNA,Routine,2026-08-20 21:00:00,1,1,Verified & Signed,25,31.2
+STP-26-72834,EVD-0797,Crime Scene,Priority (Urgent),2026-08-21 04:00:00,1,1,Pending Review,7,7.3
+STP-26-51136,EVD-0798,DNA,Routine,2026-08-21 11:00:00,1,1,Pending Review,25,26.1
+STP-26-88226,EVD-0799,Drug Chemistry,Priority (Urgent),2026-08-21 18:00:00,1,1,Verified & Signed,14,17.7
+STP-26-56834,EVD-0800,Latent Prints,Routine,2026-08-22 01:00:00,1,1,Verified & Signed,18,19.7
+STP-26-58943,EVD-0801,Crime Scene,Priority (Urgent),2026-08-22 08:00:00,1,1,Verified & Signed,7,11.0
+STP-26-35573,EVD-0802,Latent Prints,Routine,2026-08-22 15:00:00,1,1,Verified & Signed,18,19.0
+STP-26-88876,EVD-0803,DNA,Routine,2026-08-22 22:00:00,1,1,Verified & Signed,25,22.2
+STP-26-12835,EVD-0804,DNA,Court Subpoena / Trial,2026-08-23 05:00:00,1,1,Pending Review,25,21.5
+STP-26-66967,EVD-0805,Crime Scene,Routine,2026-08-23 12:00:00,1,1,Verified & Signed,7,8.5
+STP-26-37604,EVD-0806,Firearms,Court Subpoena / Trial,2026-08-23 19:00:00,1,1,Pending Review,21,18.6
+STP-26-13317,EVD-0807,Crime Scene,Routine,2026-08-24 02:00:00,1,1,Pending Review,7,8.9
+STP-26-98069,EVD-0808,Firearms,Priority (Urgent),2026-08-24 09:00:00,1,1,Verified & Signed,21,20.2
+STP-26-84595,EVD-0809,DNA,Routine,2026-08-24 16:00:00,1,1,Active Analysis,25,22.2
+STP-26-45136,EVD-0810,Toxicology,Routine,2026-08-24 23:00:00,1,1,Verified & Signed,20,30.5
+STP-26-56733,EVD-0811,Firearms,Routine,2026-08-25 06:00:00,1,1,Verified & Signed,21,18.7
+STP-26-17921,EVD-0812,DNA,Routine,2026-08-25 13:00:00,1,1,Verified & Signed,25,32.6
+STP-26-22617,EVD-0813,Latent Prints,Priority (Urgent),2026-08-25 20:00:00,0,1,Verified & Signed,18,21.6
+STP-26-52862,EVD-0814,Firearms,Priority (Urgent),2026-08-26 03:00:00,1,1,Pending Review,21,22.0
+STP-26-69907,EVD-0815,Drug Chemistry,Routine,2026-08-26 10:00:00,1,1,Pending Review,14,20.0
+STP-26-70647,EVD-0816,Drug Chemistry,Priority (Urgent),2026-08-26 17:00:00,1,1,Verified & Signed,14,15.0
+STP-26-63299,EVD-0817,Drug Chemistry,Priority (Urgent),2026-08-27 00:00:00,1,1,Verified & Signed,14,13.7
+STP-26-59962,EVD-0818,Drug Chemistry,Routine,2026-08-27 07:00:00,1,1,Verified & Signed,14,13.9
+STP-26-88089,EVD-0819,Drug Chemistry,Routine,2026-08-27 14:00:00,1,1,Verified & Signed,14,17.8
+STP-26-51328,EVD-0820,Latent Prints,Routine,2026-08-27 21:00:00,1,1,Pending Review,18,23.7
+STP-26-75199,EVD-0821,DNA,Routine,2026-08-28 04:00:00,1,1,Verified & Signed,25,27.7
+STP-26-98542,EVD-0822,Firearms,Routine,2026-08-28 11:00:00,1,1,Verified & Signed,21,19.8
+STP-26-72040,EVD-0823,Crime Scene,Routine,2026-08-28 18:00:00,1,1,Verified & Signed,7,12.9
+STP-26-66798,EVD-0824,Drug Chemistry,Routine,2026-08-29 01:00:00,1,1,QC Hold,14,16.2
+STP-26-18722,EVD-0825,Trace Evidence,Routine,2026-08-29 08:00:00,1,1,Verified & Signed,30,34.2
+STP-26-87876,EVD-0826,Toxicology,Court Subpoena / Trial,2026-08-29 15:00:00,1,1,Verified & Signed,20,14.4
+STP-26-32122,EVD-0827,Crime Scene,Priority (Urgent),2026-08-29 22:00:00,1,1,Pending Review,7,5.5
+STP-26-74565,EVD-0828,Drug Chemistry,Routine,2026-08-30 05:00:00,1,1,Verified & Signed,14,14.5
+STP-26-98248,EVD-0829,DNA,Routine,2026-08-30 12:00:00,1,1,Verified & Signed,25,26.3
+STP-26-69572,EVD-0830,DNA,Routine,2026-08-30 19:00:00,1,1,Pending Review,25,27.2
+STP-26-19441,EVD-0831,Latent Prints,Routine,2026-08-31 02:00:00,1,1,Verified & Signed,18,12.7
+STP-26-25138,EVD-0832,Firearms,Routine,2026-08-31 09:00:00,1,1,Verified & Signed,21,17.5
+STP-26-12164,EVD-0833,Drug Chemistry,Court Subpoena / Trial,2026-08-31 16:00:00,1,1,Verified & Signed,14,17.5
+STP-26-81181,EVD-0834,DNA,Priority (Urgent),2026-08-31 23:00:00,1,1,Pending Review,25,28.6
+STP-26-24690,EVD-0835,Drug Chemistry,Court Subpoena / Trial,2026-09-01 06:00:00,1,1,Verified & Signed,14,14.2
+STP-26-18084,EVD-0836,Toxicology,Routine,2026-09-01 13:00:00,1,1,Verified & Signed,20,24.0
+STP-26-63510,EVD-0837,Drug Chemistry,Priority (Urgent),2026-09-01 20:00:00,1,1,Verified & Signed,14,7.1
+STP-26-13046,EVD-0838,Trace Evidence,Routine,2026-09-02 03:00:00,1,1,Verified & Signed,30,28.1
+STP-26-43844,EVD-0839,Drug Chemistry,Routine,2026-09-02 10:00:00,1,1,Verified & Signed,14,16.3
+STP-26-53498,EVD-0840,DNA,Routine,2026-09-02 17:00:00,1,1,Verified & Signed,25,29.5
+STP-26-63237,EVD-0841,DNA,Priority (Urgent),2026-09-03 00:00:00,1,1,Verified & Signed,25,23.2
+STP-26-23053,EVD-0842,Trace Evidence,Priority (Urgent),2026-09-03 07:00:00,1,1,Pending Review,30,30.1
+STP-26-58528,EVD-0843,Toxicology,Routine,2026-09-03 14:00:00,1,1,Verified & Signed,20,16.4
+STP-26-39227,EVD-0844,DNA,Priority (Urgent),2026-09-03 21:00:00,1,1,Verified & Signed,25,26.7
+STP-26-64539,EVD-0845,Latent Prints,Priority (Urgent),2026-09-04 04:00:00,1,1,Verified & Signed,18,26.5
+STP-26-49016,EVD-0846,DNA,Routine,2026-09-04 11:00:00,1,1,QC Hold,25,31.7
+STP-26-33078,EVD-0847,Firearms,Court Subpoena / Trial,2026-09-04 18:00:00,1,1,QC Hold,21,28.7
+STP-26-36125,EVD-0848,DNA,Routine,2026-09-05 01:00:00,1,1,Verified & Signed,25,23.1
+STP-26-27742,EVD-0849,DNA,Court Subpoena / Trial,2026-09-05 08:00:00,1,1,Pending Review,25,26.8
+STP-26-19198,EVD-0850,Drug Chemistry,Routine,2026-09-05 15:00:00,1,1,Verified & Signed,14,21.3
+STP-26-20404,EVD-0851,DNA,Court Subpoena / Trial,2026-09-05 22:00:00,1,1,Verified & Signed,25,22.3
+STP-26-24179,EVD-0852,Drug Chemistry,Court Subpoena / Trial,2026-09-06 05:00:00,1,1,Verified & Signed,14,15.4
+STP-26-53227,EVD-0853,DNA,Routine,2026-09-06 12:00:00,1,1,Verified & Signed,25,28.8
+STP-26-25754,EVD-0854,Drug Chemistry,Priority (Urgent),2026-09-06 19:00:00,1,1,Active Analysis,14,17.2
+STP-26-29697,EVD-0855,Drug Chemistry,Priority (Urgent),2026-09-07 02:00:00,1,1,Verified & Signed,14,12.2
+STP-26-33500,EVD-0856,DNA,Priority (Urgent),2026-09-07 09:00:00,1,1,Verified & Signed,25,23.0
+STP-26-82001,EVD-0857,Crime Scene,Routine,2026-09-07 16:00:00,1,1,Verified & Signed,7,16.3
+STP-26-33381,EVD-0858,DNA,Priority (Urgent),2026-09-07 23:00:00,1,1,Verified & Signed,25,26.4
+STP-26-37374,EVD-0859,Firearms,Priority (Urgent),2026-09-08 06:00:00,1,1,Verified & Signed,21,21.8
+STP-26-59627,EVD-0860,Drug Chemistry,Routine,2026-09-08 13:00:00,1,1,Verified & Signed,14,15.1
+STP-26-25511,EVD-0861,DNA,Routine,2026-09-08 20:00:00,1,1,Verified & Signed,25,20.3
+STP-26-47180,EVD-0862,Crime Scene,Priority (Urgent),2026-09-09 03:00:00,1,1,Verified & Signed,7,9.0
+STP-26-81330,EVD-0863,Crime Scene,Routine,2026-09-09 10:00:00,1,1,Pending Review,7,15.5
+STP-26-71357,EVD-0864,Latent Prints,Routine,2026-09-09 17:00:00,1,1,Verified & Signed,18,25.3
+STP-26-79261,EVD-0865,Drug Chemistry,Priority (Urgent),2026-09-10 00:00:00,1,1,Verified & Signed,14,8.2
+STP-26-19277,EVD-0866,DNA,Routine,2026-09-10 07:00:00,1,1,Verified & Signed,25,19.5
+STP-26-65588,EVD-0867,Firearms,Routine,2026-09-10 14:00:00,1,1,Verified & Signed,21,25.4
+STP-26-22395,EVD-0868,Latent Prints,Priority (Urgent),2026-09-10 21:00:00,1,1,Pending Review,18,17.3
+STP-26-23570,EVD-0869,Crime Scene,Priority (Urgent),2026-09-11 04:00:00,1,1,Verified & Signed,7,4.1
+STP-26-34576,EVD-0870,Latent Prints,Routine,2026-09-11 11:00:00,1,1,Verified & Signed,18,21.8
+STP-26-95485,EVD-0871,Latent Prints,Routine,2026-09-11 18:00:00,1,1,Verified & Signed,18,15.7
+STP-26-46345,EVD-0872,DNA,Routine,2026-09-12 01:00:00,1,1,Verified & Signed,25,27.9
+STP-26-76492,EVD-0873,Drug Chemistry,Routine,2026-09-12 08:00:00,1,1,Verified & Signed,14,16.9
+STP-26-79571,EVD-0874,DNA,Routine,2026-09-12 15:00:00,1,1,Pending Review,25,22.1
+STP-26-98272,EVD-0875,Latent Prints,Priority (Urgent),2026-09-12 22:00:00,1,1,Verified & Signed,18,18.1
+STP-26-69248,EVD-0876,Firearms,Routine,2026-09-13 05:00:00,1,1,Verified & Signed,21,22.7
+STP-26-20418,EVD-0877,Firearms,Court Subpoena / Trial,2026-09-13 12:00:00,1,1,Verified & Signed,21,23.4
+STP-26-80087,EVD-0878,Toxicology,Priority (Urgent),2026-09-13 19:00:00,1,1,Verified & Signed,20,18.5
+STP-26-74023,EVD-0879,Drug Chemistry,Priority (Urgent),2026-09-14 02:00:00,1,1,Verified & Signed,14,11.8
+STP-26-33858,EVD-0880,DNA,Court Subpoena / Trial,2026-09-14 09:00:00,1,1,Verified & Signed,25,32.5
+STP-26-64702,EVD-0881,Firearms,Routine,2026-09-14 16:00:00,1,1,Verified & Signed,21,27.2
+STP-26-50278,EVD-0882,DNA,Routine,2026-09-14 23:00:00,1,1,Verified & Signed,25,30.5
+STP-26-70193,EVD-0883,DNA,Routine,2026-09-15 06:00:00,1,1,Active Analysis,25,38.1
+STP-26-19696,EVD-0884,Firearms,Routine,2026-09-15 13:00:00,1,1,Verified & Signed,21,26.9
+STP-26-66542,EVD-0885,Latent Prints,Routine,2026-09-15 20:00:00,1,1,Active Analysis,18,15.4
+STP-26-56344,EVD-0886,Drug Chemistry,Routine,2026-09-16 03:00:00,1,1,Verified & Signed,14,19.8
+STP-26-66301,EVD-0887,Crime Scene,Routine,2026-09-16 10:00:00,1,1,Verified & Signed,7,7.3
+STP-26-52851,EVD-0888,Firearms,Priority (Urgent),2026-09-16 17:00:00,1,1,Verified & Signed,21,23.1
+STP-26-60198,EVD-0889,DNA,Priority (Urgent),2026-09-17 00:00:00,1,1,Verified & Signed,25,28.2
+STP-26-46298,EVD-0890,Drug Chemistry,Routine,2026-09-17 07:00:00,1,1,Verified & Signed,14,12.2
+STP-26-80871,EVD-0891,Firearms,Routine,2026-09-17 14:00:00,0,1,Active Analysis,21,31.3
+STP-26-46886,EVD-0892,Latent Prints,Routine,2026-09-17 21:00:00,1,1,QC Hold,18,14.2
+STP-26-42515,EVD-0893,Toxicology,Court Subpoena / Trial,2026-09-18 04:00:00,0,1,Verified & Signed,20,18.8
+STP-26-19334,EVD-0894,DNA,Routine,2026-09-18 11:00:00,1,1,Verified & Signed,25,22.2
+STP-26-94726,EVD-0895,Drug Chemistry,Routine,2026-09-18 18:00:00,1,1,Active Analysis,14,11.4
+STP-26-76057,EVD-0896,Trace Evidence,Routine,2026-09-19 01:00:00,1,1,Pending Review,30,30.8
+STP-26-12587,EVD-0897,Crime Scene,Routine,2026-09-19 08:00:00,1,1,Verified & Signed,7,15.9
+STP-26-13985,EVD-0898,DNA,Routine,2026-09-19 15:00:00,1,1,Verified & Signed,25,24.8
+STP-26-66291,EVD-0899,Drug Chemistry,Routine,2026-09-19 22:00:00,1,1,Verified & Signed,14,15.8
+STP-26-61195,EVD-0900,Latent Prints,Priority (Urgent),2026-09-20 05:00:00,1,1,Verified & Signed,18,13.6
+STP-26-16077,EVD-0901,Crime Scene,Routine,2026-09-20 12:00:00,1,1,Verified & Signed,7,11.4
+STP-26-84715,EVD-0902,DNA,Routine,2026-09-20 19:00:00,1,1,Verified & Signed,25,23.1
+STP-26-99487,EVD-0903,Drug Chemistry,Routine,2026-09-21 02:00:00,1,1,Verified & Signed,14,17.6
+STP-26-37061,EVD-0904,DNA,Court Subpoena / Trial,2026-09-21 09:00:00,1,1,Verified & Signed,25,23.1
+STP-26-53916,EVD-0905,DNA,Routine,2026-09-21 16:00:00,1,1,Verified & Signed,25,32.9
+STP-26-56857,EVD-0906,Latent Prints,Routine,2026-09-21 23:00:00,1,1,Verified & Signed,18,21.1
+STP-26-27717,EVD-0907,Drug Chemistry,Routine,2026-09-22 06:00:00,1,1,Pending Review,14,15.6
+STP-26-43591,EVD-0908,Drug Chemistry,Priority (Urgent),2026-09-22 13:00:00,1,1,Verified & Signed,14,9.6
+STP-26-54077,EVD-0909,DNA,Routine,2026-09-22 20:00:00,1,0,Verified & Signed,25,19.6
+STP-26-52110,EVD-0910,Drug Chemistry,Priority (Urgent),2026-09-23 03:00:00,1,1,Active Analysis,14,14.1
+STP-26-33532,EVD-0911,Toxicology,Priority (Urgent),2026-09-23 10:00:00,1,1,Verified & Signed,20,31.2
+STP-26-16576,EVD-0912,Trace Evidence,Routine,2026-09-23 17:00:00,1,1,Verified & Signed,30,30.0
+STP-26-43966,EVD-0913,Crime Scene,Court Subpoena / Trial,2026-09-24 00:00:00,1,1,Verified & Signed,7,8.8
+STP-26-12097,EVD-0914,DNA,Routine,2026-09-24 07:00:00,1,1,Verified & Signed,25,22.0
+STP-26-80616,EVD-0915,Trace Evidence,Routine,2026-09-24 14:00:00,1,1,Verified & Signed,30,33.6
+STP-26-23391,EVD-0916,Drug Chemistry,Routine,2026-09-24 21:00:00,1,1,Verified & Signed,14,13.7
+STP-26-59877,EVD-0917,Drug Chemistry,Priority (Urgent),2026-09-25 04:00:00,1,1,Verified & Signed,14,16.5
+STP-26-77661,EVD-0918,Firearms,Routine,2026-09-25 11:00:00,1,1,Pending Review,21,24.3
+STP-26-57834,EVD-0919,DNA,Court Subpoena / Trial,2026-09-25 18:00:00,1,1,QC Hold,25,27.9
+STP-26-27748,EVD-0920,DNA,Routine,2026-09-26 01:00:00,1,1,Pending Review,25,24.0
+STP-26-54967,EVD-0921,Crime Scene,Priority (Urgent),2026-09-26 08:00:00,1,1,Verified & Signed,7,14.1
+STP-26-86181,EVD-0922,Crime Scene,Routine,2026-09-26 15:00:00,1,1,Verified & Signed,7,8.4
+STP-26-73371,EVD-0923,Firearms,Routine,2026-09-26 22:00:00,1,1,Active Analysis,21,22.2
+STP-26-90932,EVD-0924,Crime Scene,Priority (Urgent),2026-09-27 05:00:00,1,1,Verified & Signed,7,18.6
+STP-26-41885,EVD-0925,Latent Prints,Routine,2026-09-27 12:00:00,1,1,Verified & Signed,18,19.0
+STP-26-41564,EVD-0926,Drug Chemistry,Court Subpoena / Trial,2026-09-27 19:00:00,1,0,QC Hold,14,19.1
+STP-26-86700,EVD-0927,DNA,Routine,2026-09-28 02:00:00,1,1,Pending Review,25,30.6
+STP-26-78355,EVD-0928,Latent Prints,Routine,2026-09-28 09:00:00,1,1,Verified & Signed,18,19.1
+STP-26-33735,EVD-0929,Drug Chemistry,Routine,2026-09-28 16:00:00,1,1,Verified & Signed,14,8.0
+STP-26-10872,EVD-0930,Drug Chemistry,Routine,2026-09-28 23:00:00,1,0,Verified & Signed,14,14.5
+STP-26-16600,EVD-0931,Drug Chemistry,Routine,2026-09-29 06:00:00,1,1,Active Analysis,14,18.0
+STP-26-35612,EVD-0932,Toxicology,Routine,2026-09-29 13:00:00,1,1,Verified & Signed,20,12.7
+STP-26-92311,EVD-0933,Crime Scene,Priority (Urgent),2026-09-29 20:00:00,1,1,Pending Review,7,8.3
+STP-26-45726,EVD-0934,Latent Prints,Priority (Urgent),2026-09-30 03:00:00,1,1,Pending Review,18,17.1
+STP-26-90239,EVD-0935,Toxicology,Routine,2026-09-30 10:00:00,1,1,Verified & Signed,20,22.3
+STP-26-20579,EVD-0936,Drug Chemistry,Priority (Urgent),2026-09-30 17:00:00,1,1,Verified & Signed,14,17.1
+STP-26-96215,EVD-0937,Trace Evidence,Routine,2026-10-01 00:00:00,1,1,Verified & Signed,30,27.0
+STP-26-50637,EVD-0938,Toxicology,Priority (Urgent),2026-10-01 07:00:00,1,1,Pending Review,20,23.8
+STP-26-76602,EVD-0939,Latent Prints,Court Subpoena / Trial,2026-10-01 14:00:00,1,1,Verified & Signed,18,24.3
+STP-26-43407,EVD-0940,DNA,Court Subpoena / Trial,2026-10-01 21:00:00,1,1,QC Hold,25,24.6
+STP-26-92567,EVD-0941,DNA,Routine,2026-10-02 04:00:00,1,1,Active Analysis,25,26.1
+STP-26-97265,EVD-0942,Firearms,Priority (Urgent),2026-10-02 11:00:00,1,1,Verified & Signed,21,19.5
+STP-26-17174,EVD-0943,Drug Chemistry,Priority (Urgent),2026-10-02 18:00:00,1,1,Verified & Signed,14,15.9
+STP-26-49418,EVD-0944,DNA,Routine,2026-10-03 01:00:00,1,1,Active Analysis,25,29.1
+STP-26-99713,EVD-0945,Latent Prints,Routine,2026-10-03 08:00:00,1,1,QC Hold,18,15.1
+STP-26-71236,EVD-0946,Crime Scene,Routine,2026-10-03 15:00:00,1,1,Active Analysis,7,10.0
+STP-26-12375,EVD-0947,DNA,Routine,2026-10-03 22:00:00,1,1,Verified & Signed,25,24.3
+STP-26-74392,EVD-0948,DNA,Routine,2026-10-04 05:00:00,1,1,Pending Review,25,29.7
+STP-26-22947,EVD-0949,Drug Chemistry,Priority (Urgent),2026-10-04 12:00:00,1,1,Pending Review,14,12.6
+STP-26-95166,EVD-0950,DNA,Routine,2026-10-04 19:00:00,1,1,Verified & Signed,25,31.3
+STP-26-90618,EVD-0951,Drug Chemistry,Routine,2026-10-05 02:00:00,1,1,Verified & Signed,14,8.6
+STP-26-92843,EVD-0952,Crime Scene,Routine,2026-10-05 09:00:00,0,1,Pending Review,7,11.7
+STP-26-26605,EVD-0953,Crime Scene,Routine,2026-10-05 16:00:00,1,1,Active Analysis,7,9.0
+STP-26-27923,EVD-0954,Drug Chemistry,Routine,2026-10-05 23:00:00,1,0,Active Analysis,14,14.6
+STP-26-11028,EVD-0955,Drug Chemistry,Court Subpoena / Trial,2026-10-06 06:00:00,1,1,Verified & Signed,14,15.4
+STP-26-55966,EVD-0956,Drug Chemistry,Routine,2026-10-06 13:00:00,1,1,Verified & Signed,14,17.8
+STP-26-46394,EVD-0957,Toxicology,Routine,2026-10-06 20:00:00,1,1,Verified & Signed,20,21.1
+STP-26-38678,EVD-0958,Crime Scene,Routine,2026-10-07 03:00:00,1,1,Active Analysis,7,10.1
+STP-26-77789,EVD-0959,Drug Chemistry,Court Subpoena / Trial,2026-10-07 10:00:00,1,1,Pending Review,14,22.5
+STP-26-72228,EVD-0960,Drug Chemistry,Routine,2026-10-07 17:00:00,1,1,Verified & Signed,14,19.2
+STP-26-89698,EVD-0961,Latent Prints,Court Subpoena / Trial,2026-10-08 00:00:00,1,1,Verified & Signed,18,18.2
+STP-26-66034,EVD-0962,Drug Chemistry,Routine,2026-10-08 07:00:00,1,1,Verified & Signed,14,13.9
+STP-26-16951,EVD-0963,Firearms,Routine,2026-10-08 14:00:00,1,1,Verified & Signed,21,20.8
+STP-26-44808,EVD-0964,DNA,Priority (Urgent),2026-10-08 21:00:00,1,1,Verified & Signed,25,20.9
+STP-26-27664,EVD-0965,Firearms,Priority (Urgent),2026-10-09 04:00:00,1,1,Verified & Signed,21,25.2
+STP-26-57861,EVD-0966,Crime Scene,Priority (Urgent),2026-10-09 11:00:00,1,1,Verified & Signed,7,4.1
+STP-26-53424,EVD-0967,DNA,Routine,2026-10-09 18:00:00,1,1,Active Analysis,25,31.5
+STP-26-93896,EVD-0968,Toxicology,Routine,2026-10-10 01:00:00,1,1,Verified & Signed,20,20.1
+STP-26-46479,EVD-0969,Latent Prints,Routine,2026-10-10 08:00:00,1,1,Verified & Signed,18,17.4
+STP-26-68562,EVD-0970,Firearms,Priority (Urgent),2026-10-10 15:00:00,1,1,Verified & Signed,21,24.0
+STP-26-39889,EVD-0971,Drug Chemistry,Routine,2026-10-10 22:00:00,1,1,Verified & Signed,14,17.7
+STP-26-48762,EVD-0972,Drug Chemistry,Routine,2026-10-11 05:00:00,1,1,Verified & Signed,14,11.2
+STP-26-97780,EVD-0973,Drug Chemistry,Routine,2026-10-11 12:00:00,1,1,Verified & Signed,14,12.6
+STP-26-50570,EVD-0974,DNA,Priority (Urgent),2026-10-11 19:00:00,1,1,Verified & Signed,25,22.2
+STP-26-86299,EVD-0975,Drug Chemistry,Routine,2026-10-12 02:00:00,1,1,Pending Review,14,14.5
+STP-26-11284,EVD-0976,Latent Prints,Routine,2026-10-12 09:00:00,1,1,Verified & Signed,18,23.9
+STP-26-56034,EVD-0977,DNA,Priority (Urgent),2026-10-12 16:00:00,1,1,Verified & Signed,25,24.5
+STP-26-34703,EVD-0978,Toxicology,Priority (Urgent),2026-10-12 23:00:00,1,1,Pending Review,20,15.8
+STP-26-95771,EVD-0979,Latent Prints,Routine,2026-10-13 06:00:00,1,1,Verified & Signed,18,16.3
+STP-26-79923,EVD-0980,Crime Scene,Routine,2026-10-13 13:00:00,1,1,Pending Review,7,12.5
+STP-26-40546,EVD-0981,Latent Prints,Priority (Urgent),2026-10-13 20:00:00,1,1,Verified & Signed,18,19.0
+STP-26-31208,EVD-0982,Drug Chemistry,Priority (Urgent),2026-10-14 03:00:00,1,1,Verified & Signed,14,9.5
+STP-26-98787,EVD-0983,Drug Chemistry,Court Subpoena / Trial,2026-10-14 10:00:00,1,1,Active Analysis,14,18.4
+STP-26-31615,EVD-0984,Drug Chemistry,Priority (Urgent),2026-10-14 17:00:00,1,1,Verified & Signed,14,17.8
+STP-26-78131,EVD-0985,Firearms,Priority (Urgent),2026-10-15 00:00:00,1,1,Verified & Signed,21,23.1
+STP-26-65340,EVD-0986,Latent Prints,Routine,2026-10-15 07:00:00,1,1,Verified & Signed,18,12.8
+STP-26-55947,EVD-0987,Crime Scene,Court Subpoena / Trial,2026-10-15 14:00:00,1,1,Verified & Signed,7,12.2
+STP-26-43388,EVD-0988,Crime Scene,Priority (Urgent),2026-10-15 21:00:00,1,1,Verified & Signed,7,12.3
+STP-26-85778,EVD-0989,Drug Chemistry,Routine,2026-10-16 04:00:00,1,1,Active Analysis,14,10.1
+STP-26-16268,EVD-0990,Drug Chemistry,Routine,2026-10-16 11:00:00,1,1,Verified & Signed,14,21.9
+STP-26-55560,EVD-0991,Latent Prints,Routine,2026-10-16 18:00:00,1,1,Verified & Signed,18,26.9
+STP-26-32179,EVD-0992,Latent Prints,Court Subpoena / Trial,2026-10-17 01:00:00,1,1,Verified & Signed,18,19.1
+STP-26-89908,EVD-0993,Drug Chemistry,Priority (Urgent),2026-10-17 08:00:00,1,1,Verified & Signed,14,13.5
+STP-26-80701,EVD-0994,Drug Chemistry,Routine,2026-10-17 15:00:00,1,1,Verified & Signed,14,9.1
+STP-26-11771,EVD-0995,Latent Prints,Routine,2026-10-17 22:00:00,1,1,QC Hold,18,13.2
+STP-26-78953,EVD-0996,DNA,Routine,2026-10-18 05:00:00,1,1,Verified & Signed,25,25.5
+STP-26-40140,EVD-0997,Drug Chemistry,Routine,2026-10-18 12:00:00,1,1,Verified & Signed,14,10.5
+STP-26-95403,EVD-0998,Latent Prints,Court Subpoena / Trial,2026-10-18 19:00:00,1,0,Pending Review,18,15.8
+STP-26-96039,EVD-0999,Trace Evidence,Routine,2026-10-19 02:00:00,1,1,Active Analysis,30,31.6
+STP-26-50121,EVD-1000,Latent Prints,Routine,2026-10-19 09:00:00,1,1,Verified & Signed,18,19.4
